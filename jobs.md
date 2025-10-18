@@ -1,0 +1,399 @@
+## Resources
+- https://github.com/iamavu/vr-rev-jobs
+- layoffs.fyi
+- levels.fyi
+- dice tech salary report
+- Apollo - tool for emailing
+
+## Offsec Roles and companies to look at
+- AV Companies
+- General Private Sector (MSFT)
+- Cyber Security companies
+- Gaming and Anti Cheat
+- Govt contractors
+- Threat Emulation
+- Reverse Engineer
+- Malware Analysis Engineer
+- Red Team Consultant
+- Pen Tester
+- CNO Developer 
+- Vuln Research
+- Exploit Development
+- Digital Forensics and Incident Response
+- Cyber Research Scientist
+- Embedded Engineer
+- IBM Adversary Emulation
+- Threat Hunter / TDNA / ION / Digital Network Analyst
+
+## Gov't Shops
+- Recruiters: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + Verite Group + GRVTY + RedHerd
+- Kudu Dynamics
+- Fathom5
+- OP4
+- Two Six Technologies - River Security LLC
+- Caesar Creek Software
+- REDLattice
+- Set of X
+- Markesman Group
+- X8 LLC
+- Radiance Technologies
+- Talon Defense
+- ICR Inc (Ideas, Commitment, Results)
+- Breakpoint Labs
+- Recorded Future - Insikt Group Research
+- Byteratio
+- SecondWrite
+- Research Innovations (RII)
+- Interclypse
+- Cromulence
+- Cipher Tech Solutions
+- Chameleon Consulting Group
+- STR US
+- Rincon Research
+- Draper
+- Cryptic Vector
+- Narf Industries
+- Trail Of Bits
+- Tactical Network Solutions
+- Minerva Cyber Technologies
+- Def-Logix
+- NetRise
+- Galois INC
+- nullptr security
+- Clarity
+- Red Ballon Security
+- Grayband
+- War Collar Industries
+- GRIMM
+- Zetier
+- Invictus LLC
+- Ring0
+- Margin RE
+- Valiant (onevaliant)
+- Cynnovative
+- LegionX
+- T3i
+- Cyber Net Force Technologies (cnftech)
+- SIXGEN - Kyrus Tech
+- Interconnect Defense
+- Vulnerability Research Labs
+- Cohere Technology Group
+- MAXISIQ
+- IntelliGenesis
+- Altamira
+- Cymertek
+- Anavation
+- Praxis Engineering
+- Percival Engineering
+- Arsiem
+- Plex LLC
+- RedBerrry Innovations
+- Dark Circuit Labs
+- Mauck Research Group
+- The Josef Group
+- Phaedrus LLC
+- COLSA
+- Red Arch Solutions
+- Piper Companies
+- Digi Flight
+- Aperio Global
+- Digital Operatives LLC
+- Six24 Cyber Labs
+- Cognizant
+
+## Primes
+- Lockheed Martin
+- Raytheon (ForcePoint/CODEX/Nightwing)
+- Aerospace
+- Collins - Raytheon AST
+- L3Harris (Trenchant) (Azimuth)
+- ManTech
+- Booz Allen - Everwatch
+- Parsons (BlackHorse Solutions)
+- CACI
+- SAIC
+- Battelle
+- Northrup Grumman
+- Boeing Intelligence
+- Accenture Federal Services - Novetta
+- GDIT
+- BAE Systems
+- Peraton
+- Leidos
+- HII Mission Systems
+- Blue Halo - Eqlipse
+- Jacobs - Blue Canopy
+- Amentum
+
+## OffSec Research Teams
+- Google - Chronicle/Mandiant (FLARE)
+- CrowdStrike
+- Huntress Labs
+- Horizon3 AI
+- Rapid7
+- Fireye/Trellix
+- IBM - X-Force
+- Palo Alto - Unit 42
+- Accenture - Novetta/Fusion X
+- Trend Micro
+- Microsoft - Morse
+- Cisco - Talos / ASIG (Advanced Security Initiatives Group)
+- Magnet Forensics - Grayshift - High Peaks Cyber
+- Amazon Red Team
+- Apple Red Team (SEAR)
+- Meta Red Team
+- Twitter DART Team
+- Intel Security
+- NVIDIA Security
+- Gitlab - Red Team / Security
+- Shield AI
+- Anduril
+- Palantir
+- Blackberry - Cylance
+- Dell Cyber (SRO)
+- Oracle Gov Cloud - ONSR
+- Target
+- Home Depot
+- AllState - https://www.allstate.jobs/job/22221846/malware-analyst-reverse-engineer/
+- Humana
+
+## Boutique Shops
+- COBB Tuning (Austin, TX Based - RE on ECU's for Cars)
+- Lucid Motors
+- Prelude Detection
+- Citizen Lab
+- Catalyst Security
+- Vigilant Labs
+- Interrupt Labs
+- ForAllSecure - Mayhem Security
+- Grayshift / Magnet Forensics
+- Exodus Intelligence (XI)
+- Dataflow Security
+- Corellium
+- Zellic
+- Red Canary
+- Synacktiv
+- Crowd Defense
+- Atredis Partners
+- Binary Gecko
+- CoreTech
+- BlueFrost Security Labs
+- Foundry Zero
+- MSAB
+- PixiePoint Security
+- PKSecurity IO
+- Safa
+- Secfence
+- SSD Labs
+- Infosect
+- Ebryx
+
+## Research
+- NSA
+- MITRE
+- John Hopkins Applied Research Labs
+- Signal Labs
+- Ret2
+- MIT Lincoln Labs
+- CMU CERT
+- Georgia Tech Research (GTRI) - Voreas
+- Cerias - Purdue
+- USCB-Seclabs
+- DSU Deep Red Lab
+- Idaho National Laboratory
+- Sandia National
+- Redstone Arsenal
+
+## Gaming / AC
+- Roblox
+- Riot Games Vanguard
+- EA SPEAR
+- Blitz
+- Ubisoft
+- Valve
+
+## Tool Shops
+- Vector 35
+- Hex Rays
+- Semgrep
+- Offsec
+- Reveng AI
+- Hexordia
+
+## Pentest-y
+- Doyensec
+- Blackpoint Cyber
+- Dark Wolf Solutions
+- Cyderes
+- Riverside Research
+- versprite
+- BishopFox
+- Praetorian
+- Fortra
+- Shift5
+- Simspace
+- SpecterOps
+- Dragos Inc
+- Leviathan Security Group
+- Blackpoint Cyber
+- SentinelOne
+- Coalfire
+- IOActive
+- Flashpoint
+- OtterSec
+- Binarly
+- Cellebrite
+- Shield
+- Anthropic
+- 8KSec
+- NCC Group
+- Certik
+
+## Cyber / Securtiy
+- RealmOne
+- https://polyswarm.io/
+- Wiz
+- Phosphorus Cybersecurity 
+- Code Red Partners
+- Qualys
+- Tenable
+- Claroty
+- Bitsight
+- Halcyon Cyber + Clever Security
+- Greynoise
+- Keysight
+- ChipScan
+- Censys
+- Cyble
+- Checkpoint
+- Donovan
+- Block.XYZ
+- Maltego
+- Rise8
+- Synack Red Team
+- Cybereason
+- Cognition AI Labs
+- https://sublime.security/
+
+## Need to organize
+- Dreadnode
+- Blackwing HQ Intelligence
+- Enlighten Corp
+- Tuple One
+- Valiant Integrated Services
+- Viasat
+- Syscall7
+- VoidStar Security LLC
+- ClearRidge Defense
+- Freedom Consulting Group
+- Bogart AI
+- Red Siege
+- Business Integra
+- NSS RPO
+- Mission Box Solutions
+- Parenthetic
+- Astrosec
+- Praetor Technologies
+- CyberBat Inc
+- Viqtory Talent
+- Eqlipse Technologies
+- Allied Associates International
+- Leading Path Consulting
+- STAG Technology
+- High Peaks Cyber
+- Rebellion Defense
+- Shift5
+- Metrea
+- SteamPunk
+- TeamWorx Security
+- ValiCyber
+- DataDog
+- Visionist Inc
+- Nexxis Solutions
+- Cydecor
+- Truffle Security
+- The OCC
+- HTX Labs
+- MTSI
+- GuidePoint Security
+- 22nd Century Technologies
+- IPSecure
+- Applied Insight
+- i3-Corps
+- Itility
+- DefendEdge
+- Blue Ridge Dynamics
+- Charon Tech
+- Sarela Technology Solutions
+- The Kyo Group
+- Astrion
+- global infotek (giti)
+- cymertek
+- visionist
+- tanium
+- kandji
+- iomaxis llc
+- clear path cyber
+- triple haven
+- unit 221b
+- dover networks
+- clear edge
+- watchtowr
+- DCI Solutions
+- Pondurance
+- Linchpin Solutions
+- tyr1 labs
+- legato llc
+- scientific systems ssci - AI powered autonomous
+- twenty.io
+- spiralworks.ai
+- manifestcyber
+- tfvector.com
+- infosectbr
+- cylab
+- BeyondSOF
+- saronic technologies
+- sbiradvisors
+- saronic
+- carbon reach
+- benchify - ycombinator backed
+- levelupsec io
+- aptiv - ev car hacking
+- sabre systems llc
+- trace3
+- wraith watch
+- arcticwolf 
+- united health group - reverse engineering unit (cyber analyst)
+- agile information security based in UK
+- algarin industries
+- apogee research
+- Loki Labs
+- ShadowDragon - threat intel company
+- thomson reuters special services
+- theDifference
+- undaunted dev
+- hacktive security
+- 90th Air Force Malware Laboratory
+- dreadnode AI 
+- intezra
+- base2 solutions
+- hak5
+- time systems llc
+- binary defense
+- artera tech
+- tfp0 labs
+- md research
+- stack piercer
+- theori
+- nteligen
+
+## IT/SWE
+- Defense Unicorns
+- Omni Federal
+- Trek10
+- Second Front Systems
+- Fearless Gov
+- CyberPoint International, LLC
+- BigBearAI
+- QinetiQ 
+- XRDNA

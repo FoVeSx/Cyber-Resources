@@ -1,0 +1,68 @@
+## RE Game Stuff
+- GuidedHacking
+- gamehacking.gg
+- https://secret.club/
+- RE Xbox Markus Ret2 - https://www.youtube.com/watch?v=hGlIkgmhZvc
+- https://icode4.coffee/?p=954 - Tony Hawk Strcpy (good for beginner)
+- https://ssno.cc/posts/reversing-tac-1-4-2025/ - Call of Duty
+- https://www.unknowncheats.me/forum/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html
+- https://www.unknowncheats.me/forum/marvel-rivals/687866-anticheat-disabler-play-online.html
+- https://github.com/hedge-dev/XenonRecomp
+- https://github.com/xclusivor/binaryninja-xbe
+- https://lazyfoo.net/tutorials/SDL/
+- https://www.reddit.com/r/robloxhackers/
+- https://www.youtube.com/watch?v=SCGmXBjxo4g
+- https://8bitworkshop.com/
+- https://www.pushtotalk.gg/p/the-gamers-do-not-understand-anti-cheat
+- https://www.xda-developers.com/dma-ai-riot-interview/
+- https://www.unknowncheats.me/forum/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets-3.html
+- https://twitter.com/ItsGamerDoc/status/1796233961720422533
+- https://www.esportsheaven.com/features/the-cracks-in-riot-vanguards-shield-anti-cheat-and-the-secret-battle-with-hackers/
+- https://technology.riotgames.com/news/riots-approach-anti-cheat
+- https://0avx.github.io/posts/easyanticheat-import-protection/
+- https://gamehacking.academy/lesson/1/1
+- https://xcellerator.github.io/posts/tetsuji/
+- https://roganmurley.com/2024/01/02/something-a-lot-like-pokemon-yellow.html
+- https://blog.the.al/2023/01/01/ds4-reverse-engineering.html
+- https://twitter.com/AntiCheatPD/status/1796609553104015767
+- https://wololo.net/2023/08/27/ps5-specterdevs-ps5-exploit-implementation-gets-update-with-ps5-pkg-ps4-fpkg-install-support/
+- https://www.youtube.com/watch?v=Of_JnlMvyzk
+- https://www.linkedin.com/in/rohanaggarwal13/
+- nahoragg.github.io/about/
+- https://www.unknowncheats.me/forum/anti-cheat-software-and-programming/
+- https://www.youtube.com/watch?v=tUpao3ZKYsg
+- https://www.youtube.com/channel/UCrNZGLTDkQ01djqiw0m_eRA/community?lb=UgkxY4_Q4cNDwKS28U_ALqScfkSUXWKROw08
+- https://twitter.com/raratoman/status/1686544629120806912
+- https://www.phantomoverlay.io/store/category/17-cod-mw3-warzone-cheat/
+- https://twitter.com/AntiCheatPD/status/1740887033776943442
+- https://revers.engineering/fun-with-pg-compliant-hook/
+- https://github.com/Valentin-Metz/writeup_factorio
+- https://www.reddit.com/r/factorio/comments/1938uwp/hacking_factorio_from_save_game_to_remote_code/
+- https://fabiensanglard.net/quake3/qvm.php
+- https://douggemhax.wordpress.com/
+- https://secret.club/2021/04/20/source-engine-rce-invite.html
+- https://www.cgspectrum.com/courses/game-design-essentials#curriculum
+- https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/
+- Writing Exploits for IOT N-Days - https://www.youtube.com/watch?v=3Z7qXcwrY9A&list=PLt9cUwGw6CYGKTfVThNNL1ie2t21TU2RV&index=3
+- https://reversing.info/posts/guardedregions/
+- https://bright.engineer/posts/easyanticheat-integrity/
+- https://playvalorant.com/en-us/news/game-updates/vanguard-x-valorant/
+- https://archie-osu.github.io/2025/04/11/vanguard-research.html
+- https://x.com/AntiCheatPD/status/1917090061675597863 (Cheat devs using Codedefender)
+- Game Hacking VAC 2025 - https://codeneverdies.github.io/posts/gh-2/
+- Hack Electron Apps - https://x.com/guidedhacking/status/1820500012901797936?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ https://www.youtube.com/watch?v=6u0V1svtj3A&list=PLt9cUwGw6CYGHBftQjm3PCrIr4XJUhKJJ
+- https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/
+- https://sherief.fyi/
+- https://devforum.roblox.com/t/exploit-prevention-update/2663101
+- https://github.com/exploits-forsale/collateral-damage
+- Pokemon NEW DLC in Ruby w/out Hacks - NEW DLC in Pokémon Ruby and Sapphire (Without hacks...)
+- John Hammond - Game Hacking: https://www.youtube.com/watch?v=mh_o9pWmWOQ
+- LD GameBoy Emulator Dev - https://www.youtube.com/playlist?list=PLVxiWMqQvhg_yk4qy2cSC3457wZJga_e5
+- Tariq01x Doom - https://www.youtube.com/watch?v=cqL3jvlU61c
+- Call of Duty Netcode - https://www.youtube.com/watch?v=tCpYV4k_izE
+- https://neodyme.io/en/blog/csgo_from_zero_to_0day/#gameinfotxt
+- https://www.activision.com/cdn/research/Hogge_Akimitsu_Controller_to_display.pdf
+- https://gamepadla.com/
+- https://www.reddit.com/r/Gamepadla/comments/1bdqduh/help_with_building_and_configuring_the_arduino/
+- https://www.wge-gaming.com/
+- https://www.youtube.com/watch?v=DA7Z5I1l7-Q - Halo Modding Tool
