@@ -1,0 +1,18 @@
+Interview Prep Links:
+- Battelle cyber challenge, Caesar Creek, Interrupt Labs, XI
+- RJ Crandall: Reverse Engineering for Interviews- https://www.youtube.com/watch?v=GbG7zoJn-EE
+- https://nixhacker.com/malware-analysis-interview-questions-1/
+- https://www.reddit.com/r/ExploitDev/comments/1dq7q6e/professional_vulnerability_researchers_i_want/
+- https://www.overleaf.com/latex/templates/rendercv-engineeringresumes-theme/shwqvsxdgkjy
+- https://www.linkedin.com/posts/thedavidbrumley_zerodays-ctfs-pwn2own-activity-7145797981412159491-4xU_/?utm_source=share&utm_medium=member_desktop
+- https://malwaremaycry.medium.com/my-malware-analysis-journey-and-ecmap-edd37dade775
+- https://www.reddit.com/r/Malware/comments/dbsn9o/interview_questions_for_malwarevuln_research/
+- https://medium.com/@0xP/offensive-security-getting-your-foothold-in-the-industry-ac0267cf77a0
+- https://jaimelightfoot.com/blog/getting-into-infosec/
+- https://twitter.com/Steph3nSims/status/1758684943889395890
+- https://github.com/armankhondker/best-leetcode-resources
+- https://www.reddit.com/r/embedded/comments/cbswjt/entry_level_embedded_software_career_guide/?share_id=hQlaNC5nRCoHVAkdtSVG2
+- https://www.linkedin.com/posts/ahmed-saleem_60-cybersecurity-interview-questions-2019-activity-7105170674452754432-GDtO/
+- https://blog.trailofbits.com/category/internship-projects/page/2/
+- https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
+- https://www.linkedin.com/jobs/view/internship-product-security-engineer-vehicle-software-fall-2024-at-tesla-3947772748/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
