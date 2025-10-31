@@ -39,6 +39,8 @@
 - https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&view=0&maxResults=50
 - https://github.com/semsevens/CSAPP-Labs
 - https://github.com/0xF444/CSAPP-Labs
+CS61:
+- https://cs61.seas.harvard.edu/
 
 ## OS
 - https://diveintosystems.org/book/C13-OS/impl.html

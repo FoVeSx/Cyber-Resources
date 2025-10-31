@@ -60,6 +60,7 @@
 - TJ-Connor-Courses: https://github.com/tj-oconnor/undergrad-vr + https://github.com/tj-oconnor/undergraduate-re
 
 ## Challenges
+- https://ctfsearch.com
 - https://ctftime.org/
 - Nightmare - https://guyinatuxedo.github.io/index.html
 - https://ropemporium.com/
