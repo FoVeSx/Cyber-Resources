@@ -33,6 +33,7 @@
 ## OS
 - Linux Kernel Programming & Linux Kernel Programming Part 2
 - Linux Device Drivers, Third Edition & Linux Kernel Module Programming
+- The Linux Programming Interface: A Linux and UNIX System Programming Handbook 
 - Windows 10 System Programming 1 & 2
 - https://bottomupcs.com/
 - Dive Into Systems
