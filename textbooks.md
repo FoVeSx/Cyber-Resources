@@ -15,6 +15,7 @@
 - The Secret Life of Programs
 - CODE: Hidden Language of Computer Hardware and Software
 - Gameboy Coding Adventure
+- Grokking The System Design Interview
 
 ## REVR
 - Art of Exploitation
@@ -22,6 +23,7 @@
 - Practical Binary Analysis
 - Blue Fox ARM Assembly
 - Practical-Reverse-Engineering-Reversing-Obfuscation-ebook
+- The Shellcoder’s Handbook
 
 ## Red Team
 - Art-Memory-Forensics-Detecting-Malware

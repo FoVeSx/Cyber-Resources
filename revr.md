@@ -8,6 +8,7 @@
 - Tragedy of Low-Level Exploitation - https://gynvael.coldwind.pl/?id=791
 - Paradox of Choice - https://azeria-labs.com/paradox-of-choice/
 - Tony Hawk's Pro Strcpy - https://icode4.coffee/?p=954
+- Speedrunners are Vulnerability Researchers - https://zetier.com/speedrunners-are-vulnerability-researchers/
 
 ## Blogs
 - Phrack.org Writeups

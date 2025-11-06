@@ -25,59 +25,82 @@
 - IBM Adversary Emulation
 - Threat Hunter / TDNA / ION / Digital Network Analyst
 
+
 ## Gov't Shops
-- Recruiters: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + Verite Group + GRVTY + RedHerd
-- Kudu Dynamics
-- Fathom5
-- OP4
-- Two Six Technologies - River Security LLC
-- Caesar Creek Software
+- Zetier
+- Trail Of Bits
+- Research Innovations (RII)
+- ICR Inc (Ideas, Commitment, Results)
+- Nightwing
+- Kudu Dynamics / Leidos
+- Two Six Technologies
 - REDLattice
+- Cromulence / Parsons / BlackHorse
+- STR US
+- Draper
+- MITRE
+- JHUAPL
+- MIT Lincoln Labs
+- SIXGEN / Kyrus Tech
+- Cryptic Vector / Caesar Creek Software
+- Clarity / Chameleon Consulting Group
+- Cipher Tech Solutions
+- Red Ballon Security
+- X8 LLC
+- Tactical Network Solutions
 - Set of X
 - Markesman Group
-- X8 LLC
 - Radiance Technologies
+- Margin RE
+- Lockheed Martin
+- Battelle
+- Peraton Labs
+- Northrup Grumman
+- L3Harris / Trenchant / Azimuth
+- CACI
+- ManTech
+- Booz Allen - Everwatch
+- Boeing Intelligence
+- Accenture Federal Services - Novetta
+- Aerospace
+- Collins - Raytheon AST
+- SAIC
+- GDIT
+- BAE Systems
+- HII Mission Systems
+- Blue Halo - Eqlipse
+- Jacobs - Blue Canopy
+- Amentum
+- Misc: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + Verite Group + GRVTY + RedHerd
+- MotionSafe
+- Zealot Labs
+- Narf Industries
 - Talon Defense
-- ICR Inc (Ideas, Commitment, Results)
 - Breakpoint Labs
 - Recorded Future - Insikt Group Research
 - Byteratio
 - SecondWrite
-- Research Innovations (RII)
 - Interclypse
-- Cromulence
-- Cipher Tech Solutions
-- Chameleon Consulting Group
-- STR US
 - Rincon Research
-- Draper
-- Cryptic Vector
-- Narf Industries
-- Trail Of Bits
-- Tactical Network Solutions
-- Minerva Cyber Technologies
+- Fathom5
 - Def-Logix
 - NetRise
 - Galois INC
 - nullptr security
-- Clarity
-- Red Ballon Security
 - Grayband
 - War Collar Industries
 - GRIMM
-- Zetier
 - Invictus LLC
 - Ring0
-- Margin RE
 - Valiant (onevaliant)
 - Cynnovative
 - LegionX
 - T3i
 - Cyber Net Force Technologies (cnftech)
-- SIXGEN - Kyrus Tech
 - Interconnect Defense
 - Vulnerability Research Labs
 - Cohere Technology Group
+- Minerva Cyber Technologies
 - MAXISIQ
 - IntelliGenesis
 - Altamira
@@ -100,30 +123,6 @@
 - Digital Operatives LLC
 - Six24 Cyber Labs
 - Cognizant
-
-## Primes
-- Lockheed Martin
-- Raytheon (ForcePoint/CODEX/Nightwing)
-- Aerospace
-- Collins - Raytheon AST
-- L3Harris (Trenchant) (Azimuth)
-- ManTech
-- Booz Allen - Everwatch
-- Parsons (BlackHorse Solutions)
-- CACI
-- SAIC
-- Battelle
-- Northrup Grumman
-- Boeing Intelligence
-- Accenture Federal Services - Novetta
-- GDIT
-- BAE Systems
-- Peraton
-- Leidos
-- HII Mission Systems
-- Blue Halo - Eqlipse
-- Jacobs - Blue Canopy
-- Amentum
 
 ## OffSec Research Teams
 - Google - Chronicle/Mandiant (FLARE)
@@ -190,11 +189,8 @@
 
 ## Research
 - NSA
-- MITRE
-- John Hopkins Applied Research Labs
 - Signal Labs
-- Ret2
-- MIT Lincoln Labs
+- Ret2Systems
 - CMU CERT
 - Georgia Tech Research (GTRI) - Voreas
 - Cerias - Purdue

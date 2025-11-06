@@ -76,6 +76,8 @@
 - Cursor AI Code Editor
 - Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
 - Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
+- Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
+- Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
 - https://huggingface.co/
 - https://github.com/dnakov/r2d2
 - https://github.com/mrphrazer/reverser_ai
