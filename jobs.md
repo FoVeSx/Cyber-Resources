@@ -385,7 +385,15 @@
 
 ## IT/SWE
 - Defense Unicorns
+- Agile Defense
+- Hypergiant
+- Beast Code
+- Metrostar
+- Vivsoft
 - Omni Federal
+- LMI Solutions
+- Raft
+- Rackner
 - Trek10
 - Second Front Systems
 - Fearless Gov
