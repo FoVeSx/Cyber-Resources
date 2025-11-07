@@ -1,4 +1,5 @@
 ## Malware Learning / Notes
+- class.malware.re
 - https://blough.ece.gatech.edu/research/papers/ccs21.pdf
 - https://github.com/jstrosch/ + https://www.thecyberyeti.com/where-do-i-start
 - OALabs - Patreon Unlocked (https://www.youtube.com/watch?v=adAr0KBJm4U&list=PLGf_j68jNtWF6QdWNxAR5sU64up2HLOUG)
