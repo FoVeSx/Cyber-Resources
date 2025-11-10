@@ -82,6 +82,7 @@
 - https://github.com/dnakov/r2d2
 - https://github.com/mrphrazer/reverser_ai
 - Claude AI - https://www.linkedin.com/posts/jason-clinton-475671159_fully-automated-vulnerability-research-is-activity-7172000991532232704-sNtE/?utm_source=share&utm_medium=member_desktop
+- https://skywork.ai/skypage/en/supercharge-ai-agent-joern-server/1979009074129915904
 - https://github.com/ChrisTheCoolHut/Zeratool
 - https://binary.ninja/2024/06/28/sidekick-beyond-chatgpt.html
 - https://binary.ninja/2024/08/12/sidekick-2.0.html

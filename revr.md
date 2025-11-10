@@ -106,3 +106,4 @@
 - Extracting FW via SPI NOR Flash - https://youtu.be/nruUuDalNR0?si=rzzRG6S60nYwGFgC
 - Extracting and Modifying FW with JTAG - https://youtu.be/dlHJCF-SSKc?si=_uNWyYeEspi7ahZs
 - Hacking a TP-Link Router - https://youtu.be/zjafMP7EgEA?si=6iTEScMLoaqB_1WW
+- Medical Security Analysis - https://cc-sw.com/medical-device-security-analysis/
