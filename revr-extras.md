@@ -24,6 +24,7 @@
 - CMU Program Analysis -  Jonathan Aldrich
 - Intro to Program Analysis - https://www.youtube.com/watch?v=v0dKdfmziHs&list=PLF3-CvSRq2SYXEiS80KuZQ80q8K2aHLQX
 - Reversing with Angr - https://www.youtube.com/watch?v=QkVzjn3z0iw
+- Symbolic Execution: What you wish you knew months ago - https://www.youtube.com/watch?v=T3JIcvtrl8E
 - https://cc-sw.com/using-codeql-and-semgrep-to-assist-vulnerability-research-part-1-of-6/
 - https://blog.k3170makan.com/2019/12/symbolic-execution-0x0-solving-easy.html
 - https://github.com/immunant/c2rust

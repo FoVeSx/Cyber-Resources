@@ -64,12 +64,14 @@
 - https://ctfsearch.com
 - https://ctftime.org/
 - Nightmare - https://guyinatuxedo.github.io/index.html
+- OverTheWire
 - https://ropemporium.com/
 - https://www.battelle.org/the-challenge
 - https://github.com/shellphish/how2heap
 - https://github.com/mytechnotalent/Reverse-Engineering
 - https://exploit.education/
 - https://github.com/seal9055/PWN_Zero2Hero/tree/main
+- https://github.com/Legoclones/created-ctf-challenges/tree/main
 - https://github.com/maxpl0it/crackme101
 - https://github.com/jakespringer/angr_ctf
 - https://pwnable.kr/
