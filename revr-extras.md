@@ -116,3 +116,20 @@ OSINT: Shodan + https://search.censys.io/
 Network Statistics: https://www.netlimiter.com/ - Comodo
 Program Analysis: https://github.com/trailofbits/codeql-queries + https://github.com/google/syzkaller + ROPView + ROPDump + https://panda.re/ + https://github.com/toolCHAINZ/crackers
 Terminal Emulators: Wezterm, GhostTTY, Kitty, Warp, https://github.com/starship/starship
+
+# Cool Projects
+- Inspiration from:
+- https://github.com/cdong1012/ollvm-unflattener
+- https://github.com/x86matthew/WinVisor
+- https://blog.trailofbits.com/2025/11/13/building-checksec-without-boundaries-with-checksec-anywhere/
+- https://github.com/trailofbits/checksec-anywhere
+- Inspiration from ToB:
+- VAST: MLIR-based C/C++ compiler: You will focus on how the toolchain performs on larger projects, such as gzip or SQLite, and identify, report, and address any issues encountered.
+- Optimize Pwndbg Performance: Pwndbg is an open-source GDB plug-in for reverse engineering and exploit development. You will work on optimizing the Python code of the plugin to increase its performance and reduce startup time.
+- Build a Reporting Chrome extension: Your task will be to develop a custom Chrome extension that replicates our internal reporting tool capabilities, which will greatly improve report writing efforts at Trail of Bits.
+- Public JetBrains weAudit extension: We have a working JetBrains weAudit extension, but it is missing core features compared to the VScode version. Your goal is to make this extension feature complete and then publish it.
+- Automatically generating Semgrep & CodeQL rules: Add weAudit features to generate "skeleton" Semgrep and CodeQL queries based on a code snippet that we want to find, or a text description of a vulnerability we are looking for.
+- Write CodeQL for Cosmos-SDK: cosmos-sdk is a Go library for creating new blockchain apps. You will develop a set of CodeQL rules to detect common vulnerabilities in Cosmos applications written with the SDK.
+- New Section for ZKDocs:  You will focus on adding more content.
+- Schannel MVP implementation for PEP 748: You will be helping improve an important Python TLS codebase.
+- Implement Advanced Access Structures for Secret Sharing: You will work on implementing secret sharing schemes that support more advanced reconstruction policies than the standard threshold policies—enabling, for example, a policy where a layer or the CEO is always needed to reconstruct a secret.

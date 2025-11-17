@@ -87,6 +87,7 @@
 - https://www.xorpd.net/pages/xchg_rax/snip_00.html
 
 ## Embedded RE/VR
+- https://pyjamabrah.com/
 - Flipper Zero Course
 - TCM Security IoT Hacking Course, Interrupt Labs, Flashback.sh Courses
 - https://github.com/twelvesec/PwnPad/tree/main
