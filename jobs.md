@@ -25,40 +25,52 @@
 - IBM Adversary Emulation
 - Threat Hunter / TDNA / ION / Digital Network Analyst
 
+Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red Ballon, SIXGEN/Kyrus, RL
 
 ## Gov't Shops
 - Zetier
-- Trail Of Bits
+- REDLattice
 - Research Innovations (RII)
 - ICR Inc (Ideas, Commitment, Results)
-- Nightwing
-- Kudu Dynamics / Leidos
-- Two Six Technologies
-- REDLattice
 - Cromulence / Parsons / BlackHorse
-- STR US
-- Draper
-- MITRE
 - JHUAPL
-- MIT Lincoln Labs
-- SIXGEN / Kyrus Tech
 - Cryptic Vector / Caesar Creek Software
-- Clarity / Chameleon Consulting Group
-- Cipher Tech Solutions
 - Red Ballon Security
-- X8 LLC
-- Tactical Network Solutions
+- SIXGEN / Kyrus Tech
+- Nightwing
+- Two Six Technologies
+- Clarity / Chameleon Consulting Group
+- Draper
+- Trail Of Bits
+- Margin RE
+- Kudu Dynamics / Leidos
+- STR US
+- MITRE
+- MIT Lincoln Labs
+- Cipher Tech Solutions
 - Set of X
+- X8 LLC
+- CNFTech
+- Ring0
+- Interclypse
+- Tactical Network Solutions
 - Markesman Group
 - Radiance Technologies
-- Margin RE
-- Lockheed Martin
+- MotionSafe
+- Zealot Labs
+- Hacktron.ai
+- NetRise
+- Fathom5
+- LegionX
+- Narf Industries
+- nullptr security
 - Battelle
 - Peraton Labs
 - Northrup Grumman
+- Lockheed Martin
+- ManTech
 - L3Harris / Trenchant / Azimuth
 - CACI
-- ManTech
 - Booz Allen - Everwatch
 - Boeing Intelligence
 - Accenture Federal Services - Novetta
@@ -71,35 +83,26 @@
 - Blue Halo - Eqlipse
 - Jacobs - Blue Canopy
 - Amentum
+- Cohere Technology Group
+- Arsiem
 - Misc: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + Verite Group + GRVTY + RedHerd
-- MotionSafe
-- Zealot Labs
-- Narf Industries
 - Talon Defense
 - Breakpoint Labs
 - Recorded Future - Insikt Group Research
 - Byteratio
 - SecondWrite
-- Interclypse
 - Rincon Research
-- Fathom5
 - Def-Logix
-- NetRise
 - Galois INC
-- nullptr security
 - Grayband
 - War Collar Industries
 - GRIMM
 - Invictus LLC
-- Ring0
 - Valiant (onevaliant)
 - Cynnovative
-- LegionX
 - T3i
-- Cyber Net Force Technologies (cnftech)
 - Interconnect Defense
 - Vulnerability Research Labs
-- Cohere Technology Group
 - Minerva Cyber Technologies
 - MAXISIQ
 - IntelliGenesis
@@ -108,7 +111,6 @@
 - Anavation
 - Praxis Engineering
 - Percival Engineering
-- Arsiem
 - Plex LLC
 - RedBerrry Innovations
 - Dark Circuit Labs

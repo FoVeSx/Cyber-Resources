@@ -79,7 +79,9 @@
 - Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
 - Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
 - Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
+- https://www.youtube.com/watch?v=tLR_hHQVkOk - AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025
 - https://huggingface.co/
+- https://github.com/BrownFineSecurity/iothackbot
 - https://github.com/dnakov/r2d2
 - https://github.com/mrphrazer/reverser_ai
 - Claude AI - https://www.linkedin.com/posts/jason-clinton-475671159_fully-automated-vulnerability-research-is-activity-7172000991532232704-sNtE/?utm_source=share&utm_medium=member_desktop
@@ -111,7 +113,7 @@ RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex
 Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator
-Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md
+Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md + Malcat https://malcat.fr/index.html
 OSINT: Shodan + https://search.censys.io/
 Network Statistics: https://www.netlimiter.com/ - Comodo
 Program Analysis: https://github.com/trailofbits/codeql-queries + https://github.com/google/syzkaller + ROPView + ROPDump + https://panda.re/ + https://github.com/toolCHAINZ/crackers

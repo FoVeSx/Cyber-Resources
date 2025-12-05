@@ -16,6 +16,7 @@
 - CODE: Hidden Language of Computer Hardware and Software
 - Gameboy Coding Adventure
 - Grokking The System Design Interview
+- Docker Up and Running
 
 ## REVR
 - Art of Exploitation

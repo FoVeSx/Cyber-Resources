@@ -61,6 +61,7 @@
 - TJ-Connor-Courses: https://github.com/tj-oconnor/undergrad-vr + https://github.com/tj-oconnor/undergraduate-re
 
 ## Challenges
+- https://www.darpa.mil/research/challenges/darpa-triage-challenge
 - https://ctfsearch.com
 - https://ctftime.org/
 - Nightmare - https://guyinatuxedo.github.io/index.html
@@ -110,3 +111,4 @@
 - Extracting and Modifying FW with JTAG - https://youtu.be/dlHJCF-SSKc?si=_uNWyYeEspi7ahZs
 - Hacking a TP-Link Router - https://youtu.be/zjafMP7EgEA?si=6iTEScMLoaqB_1WW
 - Medical Security Analysis - https://cc-sw.com/medical-device-security-analysis/
+- We Hacked Flock Safety Cameras in under 30 Seconds - https://www.youtube.com/watch?v=uB0gr7Fh6lY
