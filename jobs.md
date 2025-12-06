@@ -66,7 +66,7 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - nullptr security
 - Battelle
 - Peraton Labs
-- Northrup Grumman
+- Northrop Grumman / Xetron
 - Lockheed Martin
 - ManTech
 - L3Harris / Trenchant / Azimuth
