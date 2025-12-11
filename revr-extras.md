@@ -75,12 +75,14 @@
 - Github Co-pilot
 - Apple Private Cloud Compute
 - Cursor AI Code Editor
+- openrouter
+- https://synthetic.new/landing/home
+- https://huggingface.co/
 - Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
 - Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
 - Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
 - Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
 - https://www.youtube.com/watch?v=tLR_hHQVkOk - AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025
-- https://huggingface.co/
 - https://github.com/BrownFineSecurity/iothackbot
 - https://github.com/dnakov/r2d2
 - https://github.com/mrphrazer/reverser_ai
@@ -109,7 +111,7 @@
 
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter
-RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex
+RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim)
 Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator

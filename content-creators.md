@@ -2,7 +2,7 @@
 - Coding Jesus
 - YouSuckAtProgramming
 - ComputerPhile
-- Jacob Sorber
+- Jacob Sorber / Daniel Hirsch
 
 ## Cyber
 - John Hammond
