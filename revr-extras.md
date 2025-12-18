@@ -69,6 +69,7 @@
 - https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
 
 ## LLM / AI
+- https://techforce.gov/
 - AIBugHunter
 - LiveBench
 - dspy.ai
@@ -76,6 +77,11 @@
 - Apple Private Cloud Compute
 - Cursor AI Code Editor
 - openrouter
+- OpenAI Aardvark (CRS-like) -  https://openai.com/index/introducing-aardvark/
+- Project Naptime: https://projectzero.google/2024/10/from-naptime-to-big-sleep.html
+- Vulnhalla - https://www.cyberark.com/resources/threat-research-blog/vulnhalla-picking-the-true-vulnerabilities-from-the-codeql-haystack
+- https://github.com/gadievron/raptor (Autonomous Offensive/Defensive Research Framework)
+- https://code.xint.io/
 - https://synthetic.new/landing/home
 - https://huggingface.co/
 - Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
@@ -88,7 +94,6 @@
 - https://github.com/mrphrazer/reverser_ai
 - Claude AI - https://www.linkedin.com/posts/jason-clinton-475671159_fully-automated-vulnerability-research-is-activity-7172000991532232704-sNtE/?utm_source=share&utm_medium=member_desktop
 - https://skywork.ai/skypage/en/supercharge-ai-agent-joern-server/1979009074129915904
-- https://github.com/ChrisTheCoolHut/Zeratool
 - https://binary.ninja/2024/06/28/sidekick-beyond-chatgpt.html
 - https://binary.ninja/2024/08/12/sidekick-2.0.html
 - https://twitter.com/FuzzySec/status/1807101518010577218
@@ -112,7 +117,7 @@
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter
 RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim)
-Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/
+Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG)
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator
 Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md + Malcat https://malcat.fr/index.html
