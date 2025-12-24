@@ -48,11 +48,14 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - MITRE
 - MIT Lincoln Labs
 - Cipher Tech Solutions
+- GRVTY / Verite Group
+- Rincon Research
 - Set of X
 - X8 LLC
 - CNFTech
 - Ring0
 - Interclypse
+- Vulnerability Research Labs
 - Tactical Network Solutions
 - Markesman Group
 - Radiance Technologies
@@ -68,8 +71,10 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - Peraton Labs
 - Northrop Grumman / Xetron
 - Lockheed Martin
+- GDIT
 - ManTech
 - L3Harris / Trenchant / Azimuth
+- Blue Halo - Eqlipse
 - CACI
 - Booz Allen - Everwatch
 - Boeing Intelligence
@@ -77,21 +82,24 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - Aerospace
 - Collins - Raytheon AST
 - SAIC
-- GDIT
 - BAE Systems
 - HII Mission Systems
-- Blue Halo - Eqlipse
 - Jacobs - Blue Canopy
 - Amentum
+- DTSI / Irys Technologies
+- BLS Government Services
+- Praxis Engineering
+- Percival Engineering
+- Plex LLC
+- MAXISIQ
 - Cohere Technology Group
 - Arsiem
-- Misc: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + Verite Group + GRVTY + RedHerd
+- Misc: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + RedHerd
 - Talon Defense
 - Breakpoint Labs
 - Recorded Future - Insikt Group Research
 - Byteratio
 - SecondWrite
-- Rincon Research
 - Def-Logix
 - Galois INC
 - Grayband
@@ -102,16 +110,11 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - Cynnovative
 - T3i
 - Interconnect Defense
-- Vulnerability Research Labs
 - Minerva Cyber Technologies
-- MAXISIQ
 - IntelliGenesis
 - Altamira
 - Cymertek
 - Anavation
-- Praxis Engineering
-- Percival Engineering
-- Plex LLC
 - RedBerrry Innovations
 - Dark Circuit Labs
 - Mauck Research Group

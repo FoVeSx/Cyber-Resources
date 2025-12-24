@@ -116,7 +116,7 @@
 
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter
-RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim)
+RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
 Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG)
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator
