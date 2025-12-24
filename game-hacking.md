@@ -5,6 +5,7 @@
 - RE Xbox Markus Ret2 - https://www.youtube.com/watch?v=hGlIkgmhZvc
 - https://icode4.coffee/?p=954 - Tony Hawk Strcpy (good for beginner)
 - Reverse Engineering Denuvo Hogwarts Legacy - https://momo5502.com/posts/2025-10-03-reverse-engineering-denuvo-in-hogwarts-legacy/
+- https://www.riotgames.com/en/news/vanguard-security-update-motherboard + https://jjensn.com/at-home-in-your-firmware/#the-poc
 - https://ssno.cc/posts/reversing-tac-1-4-2025/ - Call of Duty
 - https://www.unknowncheats.me/forum/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html
 - https://www.unknowncheats.me/forum/marvel-rivals/687866-anticheat-disabler-play-online.html
