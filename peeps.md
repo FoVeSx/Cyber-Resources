@@ -14,19 +14,27 @@
 - Mad Hat
 - UnixGuy
 
-## RE/VR
+## VR
 - Stephen Sims
 - Chompie1337 (Valentina Palmiotti)
 - LiveOverflow
 - LowLevelLearning
-- Nathan Baggs
 - RaziOverflow
+- Billy Ellis (iOS Research)
 
-## Malware
+## RE / Malware / CNO
 - OALabs
+- Joshua Reynolds
+- Josh Stroschein
+- C5pider
 - Crow 
 - HuskyHacks
 - Eric Parker
+- L0PSec
+- Chuong Duong - https://www.0ffset.net/author/chuong-dong/ 
+- Alexandre Borges
+- x86matthew
+- Nathan Baggs
 
 ## Hardware
 - StackSmashing

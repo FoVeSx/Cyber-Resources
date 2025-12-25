@@ -39,6 +39,7 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - SIXGEN / Kyrus Tech
 - Nightwing
 - Two Six Technologies
+- Radiance Technologies
 - Clarity / Chameleon Consulting Group
 - Draper
 - Trail Of Bits
@@ -55,10 +56,10 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - CNFTech
 - Ring0
 - Interclypse
+- Invictus LLC
 - Vulnerability Research Labs
 - Tactical Network Solutions
 - Markesman Group
-- Radiance Technologies
 - MotionSafe
 - Zealot Labs
 - Hacktron.ai
@@ -105,7 +106,6 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - Grayband
 - War Collar Industries
 - GRIMM
-- Invictus LLC
 - Valiant (onevaliant)
 - Cynnovative
 - T3i
@@ -277,6 +277,8 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - https://sublime.security/
 
 ## Need to organize
+- Doodle Labs
+- Shift5
 - Dreadnode
 - Blackwing HQ Intelligence
 - Enlighten Corp
@@ -303,7 +305,6 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - STAG Technology
 - High Peaks Cyber
 - Rebellion Defense
-- Shift5
 - Metrea
 - SteamPunk
 - TeamWorx Security

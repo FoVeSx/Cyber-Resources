@@ -25,10 +25,8 @@
 - Malware Analysis For Hedgehog 
 - InvokeRE 
 - Zero2Automated
-- Alexandre Borges - https://exploitreversing.com/2021/12/03/malware-analysis-series-mas-article-1/
+- https://exploitreversing.com/2021/12/03/malware-analysis-series-mas-article-1/
 - LigerLabs - Educational Modules for (Anti-)Reverse Engineering
-- https://www.0ffset.net/author/chuong-dong/ - https://chuongdong.com/
-- L0PSec - https://www.youtube.com/@L0psec/videos
 - The Art of Mac Malware - https://taomm.org/
 
 ## Malware Resources
