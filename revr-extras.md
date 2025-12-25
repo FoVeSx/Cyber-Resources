@@ -1,5 +1,6 @@
 ## Fuzzing
 - OST2 Fuzzing 1001 - https://apps.p.ost2.fyi/learning/course/course-v1:OpenSecurityTraining2+Fuzz1001_Intro_AFL+2025_v1/home
+- SA-RIOT Fuzzing Course
 - Dan Guido - The Smart Fuzzer Revolution BSides Lisbon 2016
 - https://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/
 - https://github.com/mykter/afl-training
@@ -13,22 +14,21 @@
 - https://www.ret2research.com/posts/fuzzware-firmware-vulnerability-triage/
 
 ## Emulation
-- Zero to QEMU Slides
-- OST2 Training
+- From Zero to QEMU (Slides / OST2 Training)
 - Intro to Emulation from OALABS (Unicorn)
 
 ## Program Analysis
 - Benchify, Infer, CodeQL
+- https://github.com/immunant/c2rust
 - Blackhat Las Vegas 2023 talk: CodeQL: Also a Powerful Binary Analysis Engine
 - Static Program Analysis - CS AU DK
 - CMU Program Analysis -  Jonathan Aldrich
 - Intro to Program Analysis - https://www.youtube.com/watch?v=v0dKdfmziHs&list=PLF3-CvSRq2SYXEiS80KuZQ80q8K2aHLQX
 - Reversing with Angr - https://www.youtube.com/watch?v=QkVzjn3z0iw
 - Symbolic Execution: What you wish you knew months ago - https://www.youtube.com/watch?v=T3JIcvtrl8E
-- https://cc-sw.com/using-codeql-and-semgrep-to-assist-vulnerability-research-part-1-of-6/
+- CodeQL Zero to Hero - https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/
+- Caesar Creek Using CodeQL and Semgrep for VR - https://cc-sw.com/using-codeql-and-semgrep-to-assist-vulnerability-research-part-1-of-6/
 - https://blog.k3170makan.com/2019/12/symbolic-execution-0x0-solving-easy.html
-- https://github.com/immunant/c2rust
-- https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/
 - https://github.com/google/security-research/blob/master/pocs/cpus/spectre-gadgets/README.md
 - https://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/notes/notes14-symbolic-execution.pdf
 - https://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/notes/notes15-concolic-testing.pdf
@@ -38,18 +38,19 @@
 
 ## Kernel Exploitation
 - Syzscope, SyzKaller, Kallsyms, KRWX
+- Eudyptula Challenge
 - https://github.com/hacktivesec/beginner-kernel-exploitation-setup
 - Process Memory Layout Analysis and Address Finding in Linux- https://twitter.com/7etsuo/status/1810523604217639357
 - Learning Kernel - https://www.youtube.com/watch?v=JRyrhsx-L5Y
 - https://pawnyable.cafe/ - https://h0mbre.github.io/PAWNYABLE_UAF_Walkthrough/
 - LFD420 - https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/
+- Slub Internals - https://www.youtube.com/watch?v=WWQh4yAoXME&t=23158s 
 - https://github.com/xairy/linux-kernel-exploitation
 - https://sam4k.com/like-a-series-on-linux-kernel-exploitation/
 - https://twitter.com/0xor0ne/status/1742157568074465642
 - https://sysprog21.github.io/lkmpg/#hello-world
 - https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4
 - https://pwning.systems/posts/an-introduction-to-kernel-exploitation-part1/
-- Understanding Exploit Primitives
 - https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-1
 - https://www.cs.umd.edu/~meesh/411/CA-online/chapter/pipelining-mips-implementation/index.html
 - https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/
@@ -58,8 +59,6 @@
 - Offlinemark - https://www.youtube.com/watch?v=iidgpKM6rfc - Kernel Dev
 - https://scoding.de/linux-kernel-exploitation-buffer_overflow
 - https://static.sched.com/hosted_files/lsseu2024/37/2024%2C%20LSS%20EU_%20SLUB%20Internals%20for%20Exploit%20Developers.pdf
-- Slub Internals - https://www.youtube.com/watch?v=WWQh4yAoXME&t=23158s 
-- Eudyptula Challenge
 
 ## Hypervisor
 - https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/
@@ -69,50 +68,24 @@
 - https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
 
 ## LLM / AI
-- https://techforce.gov/
-- AIBugHunter
-- LiveBench
-- dspy.ai
-- Github Co-pilot
-- Apple Private Cloud Compute
-- Cursor AI Code Editor
-- openrouter
 - OpenAI Aardvark (CRS-like) -  https://openai.com/index/introducing-aardvark/
 - Project Naptime: https://projectzero.google/2024/10/from-naptime-to-big-sleep.html
 - Vulnhalla - https://www.cyberark.com/resources/threat-research-blog/vulnhalla-picking-the-true-vulnerabilities-from-the-codeql-haystack
 - https://github.com/gadievron/raptor (Autonomous Offensive/Defensive Research Framework)
+- AIBugHunter
 - https://code.xint.io/
-- https://synthetic.new/landing/home
-- https://huggingface.co/
-- Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
-- Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
 - Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
 - Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
-- https://www.youtube.com/watch?v=tLR_hHQVkOk - AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025
-- https://github.com/BrownFineSecurity/iothackbot
-- https://github.com/dnakov/r2d2
-- https://github.com/mrphrazer/reverser_ai
-- Claude AI - https://www.linkedin.com/posts/jason-clinton-475671159_fully-automated-vulnerability-research-is-activity-7172000991532232704-sNtE/?utm_source=share&utm_medium=member_desktop
-- https://skywork.ai/skypage/en/supercharge-ai-agent-joern-server/1979009074129915904
-- https://binary.ninja/2024/06/28/sidekick-beyond-chatgpt.html
-- https://binary.ninja/2024/08/12/sidekick-2.0.html
-- https://twitter.com/FuzzySec/status/1807101518010577218
-- https://twitter.com/moyix/status/1765967602982027550
-- https://www.corellium.com/blog/automate-tasks-with-corellium-and-ai
-- https://sourcegraph.com/
-- https://events.sofwerx.org/jsou-gpt-ai-platform
-- https://blog.trailofbits.com/2024/08/09/trail-of-bits-buttercup-heads-to-darpas-aixcc/
-- https://blog.trailofbits.com/2024/03/11/darpa-awards-1-million-to-trail-of-bits-for-ai-cyber-challenge/
-- Brendan Dolan Gavitt - https://twitter.com/moyix/status/1821668886934176115
-- https://arxiv.org/abs/2402.11814
-- https://openai.com/index/gpt-4o-system-card/
-- https://openai.com/index/learning-to-reason-with-llms/
-- https://openai.com/index/introducing-openai-o1-preview/ https://www.reddit.com/r/slatestarcodex/comments/1ff86sc/learning_to_reason_with_llms_openais_next/
-- https://openai.com/index/introducing-canvas/
-- https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html
-- https://blog.trailofbits.com/2025/04/29/deceiving-users-with-ansi-terminal-codes-in-mcp/
-- https://gitmcp.io/
+- AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025 - https://www.youtube.com/watch?v=tLR_hHQVkOk
+- IOT Hackbot - https://github.com/BrownFineSecurity/iothackbot
+- R2D2 GPT Plugin - https://github.com/dnakov/r2d2
+- Automated Reversing basic tool - https://github.com/mrphrazer/reverser_ai
+- Joern MCP Server - https://skywork.ai/skypage/en/supercharge-ai-agent-joern-server/1979009074129915904
+- Binja Sidekick and MCP - https://binary.ninja/2024/06/28/sidekick-beyond-chatgpt.html https://binary.ninja/2024/08/12/sidekick-2.0.html
+- Corellium AI- https://www.corellium.com/blog/automate-tasks-with-corellium-and-ai
+- AIXCC Buttercup - https://www.trailofbits.com/buttercup/
 - AIxCC - https://youtu.be/8W_VpO5V51A?si=lYtmIlHvPFGXI2LY (DARPA Talk with John Hammond)
+- LLMs for Solving Offensive Security Challenges - https://arxiv.org/abs/2402.11814
 
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter
