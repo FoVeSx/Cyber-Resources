@@ -80,6 +80,7 @@
 - IOT Hackbot - https://github.com/BrownFineSecurity/iothackbot
 - R2D2 GPT Plugin - https://github.com/dnakov/r2d2
 - Automated Reversing basic tool - https://github.com/mrphrazer/reverser_ai
+- Binary Ninja MCP - https://github.com/fosdickio/binary_ninja_mcp/
 - Joern MCP Server - https://skywork.ai/skypage/en/supercharge-ai-agent-joern-server/1979009074129915904
 - Binja Sidekick and MCP - https://binary.ninja/2024/06/28/sidekick-beyond-chatgpt.html https://binary.ninja/2024/08/12/sidekick-2.0.html
 - Corellium AI- https://www.corellium.com/blog/automate-tasks-with-corellium-and-ai
