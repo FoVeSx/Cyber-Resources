@@ -72,6 +72,7 @@
 - Project Naptime: https://projectzero.google/2024/10/from-naptime-to-big-sleep.html
 - Vulnhalla - https://www.cyberark.com/resources/threat-research-blog/vulnhalla-picking-the-true-vulnerabilities-from-the-codeql-haystack
 - https://github.com/gadievron/raptor (Autonomous Offensive/Defensive Research Framework)
+- https://pwno.io/
 - AIBugHunter
 - https://code.xint.io/
 - Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
