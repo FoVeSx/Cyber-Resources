@@ -92,10 +92,11 @@
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter
 RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
-Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG)
+Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit)
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator
 Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md + Malcat https://malcat.fr/index.html
+Maldev: https://github.com/MatheuZSecurity/Singularity (Linux Kernel Rootkit)
 OSINT: Shodan + https://search.censys.io/
 Network Statistics: https://www.netlimiter.com/ - Comodo
 Program Analysis: https://github.com/trailofbits/codeql-queries + https://github.com/google/syzkaller + ROPView + ROPDump + https://panda.re/ + https://github.com/toolCHAINZ/crackers

@@ -25,8 +25,6 @@
 - IBM Adversary Emulation
 - Threat Hunter / TDNA / ION / Digital Network Analyst
 
-Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red Ballon, SIXGEN/Kyrus, RL
-
 ## Gov't Shops
 - Zetier
 - REDLattice
@@ -95,7 +93,7 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - MAXISIQ
 - Cohere Technology Group
 - Arsiem
-- Misc: Stanley Reid + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + RedHerd
+- Misc: Stanley Reid + The Josef Group + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + RedHerd
 - Talon Defense
 - Breakpoint Labs
 - Recorded Future - Insikt Group Research
@@ -118,7 +116,6 @@ Zetier, RII, ICR, Parsons, Nightwing, Two Six, Kudu, Cryptic/Caesar, JHUAPL, Red
 - RedBerrry Innovations
 - Dark Circuit Labs
 - Mauck Research Group
-- The Josef Group
 - Phaedrus LLC
 - COLSA
 - Red Arch Solutions

@@ -43,6 +43,7 @@
 - https://book.jorianwoltjer.com/
 - https://ctf101.org/binary-exploitation/overview/
 - https://azeria-labs.com/writing-arm-assembly-part-1/
+- https://8ksec.io/arm-64-reversing-and-exploitation-series/
 - https://x86re.com/1.html
 - https://0xinfection.github.io/reversing/
 - https://ir0nstone.gitbook.io/notes/
