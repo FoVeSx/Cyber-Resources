@@ -48,6 +48,7 @@
 - MIT Lincoln Labs
 - Cipher Tech Solutions
 - GRVTY / Verite Group
+- Talon Defense
 - Rincon Research
 - Set of X
 - X8 LLC
@@ -61,6 +62,7 @@
 - MotionSafe
 - Zealot Labs
 - Hacktron.ai
+- VulnCheck
 - NetRise
 - Fathom5
 - LegionX
@@ -91,10 +93,10 @@
 - Percival Engineering
 - Plex LLC
 - MAXISIQ
+- Triple Haven
 - Cohere Technology Group
 - Arsiem
 - Misc: Stanley Reid + The Josef Group + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + RedHerd
-- Talon Defense
 - Breakpoint Labs
 - Recorded Future - Insikt Group Research
 - Byteratio
@@ -140,6 +142,7 @@
 - Microsoft - Morse
 - Cisco - Talos / ASIG (Advanced Security Initiatives Group)
 - Magnet Forensics - Grayshift - High Peaks Cyber
+- BugCrowd
 - Amazon Red Team
 - Apple Red Team (SEAR)
 - Meta Red Team
@@ -249,6 +252,7 @@
 
 ## Cyber / Securtiy
 - RealmOne
+- Punch Cyber Analytics
 - https://polyswarm.io/
 - Wiz
 - Phosphorus Cybersecurity 
@@ -333,7 +337,6 @@
 - kandji
 - iomaxis llc
 - clear path cyber
-- triple haven
 - unit 221b
 - dover networks
 - clear edge

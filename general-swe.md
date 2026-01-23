@@ -1,6 +1,7 @@
 ## SWE
 - getcracked.io
 - https://roadmap.sh/
+- https://devhints.io/
 - https://github.com/ReaVNaiL/New-Grad-2024
 - https://cs50.harvard.edu/x/
 - https://missing.csail.mit.edu/

@@ -90,7 +90,7 @@
 - LLMs for Solving Offensive Security Challenges - https://arxiv.org/abs/2402.11814
 
 ## Tools
-General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter
+General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter + Excalidraw
 RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
 Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit)
 Kernel VR: https://out-of-tree.io/
