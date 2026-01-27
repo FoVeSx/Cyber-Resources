@@ -67,6 +67,9 @@
 - Fathom5
 - LegionX
 - Narf Industries
+- Punch Cyber Analytics
+- Six24 Cyber Labs
+- Voreas
 - nullptr security
 - Battelle
 - Peraton Labs
@@ -125,7 +128,6 @@
 - Digi Flight
 - Aperio Global
 - Digital Operatives LLC
-- Six24 Cyber Labs
 - Cognizant
 
 ## OffSec Research Teams
@@ -197,7 +199,7 @@
 - Signal Labs
 - Ret2Systems
 - CMU CERT
-- Georgia Tech Research (GTRI) - Voreas
+- Georgia Tech Research (GTRI)
 - Cerias - Purdue
 - USCB-Seclabs
 - DSU Deep Red Lab
@@ -252,7 +254,6 @@
 
 ## Cyber / Securtiy
 - RealmOne
-- Punch Cyber Analytics
 - https://polyswarm.io/
 - Wiz
 - Phosphorus Cybersecurity 
