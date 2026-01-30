@@ -107,7 +107,6 @@
 - https://voidstarsec.training/products/hacking-hardware-debuggers
 - https://www.grayhatacademy.com/hardware-hacking-workshop
 - https://learn.securinghardware.com/courses/applied-physical-attacks-1/
-- https://embedder.dev/
 - Hacker's Guide to UART Root Shells - https://youtu.be/01mw0oTHwxg?si=zcFD11693crcqvAV
 - Extracting FW via SPI NOR Flash - https://youtu.be/nruUuDalNR0?si=rzzRG6S60nYwGFgC
 - Extracting and Modifying FW with JTAG - https://youtu.be/dlHJCF-SSKc?si=_uNWyYeEspi7ahZs

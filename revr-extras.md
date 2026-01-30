@@ -68,6 +68,8 @@
 - https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
 
 ## LLM / AI
+- VulnCheck
+- https://www.embedder.com/
 - OpenAI Aardvark (CRS-like) -  https://openai.com/index/introducing-aardvark/
 - Project Naptime: https://projectzero.google/2024/10/from-naptime-to-big-sleep.html
 - Vulnhalla - https://www.cyberark.com/resources/threat-research-blog/vulnhalla-picking-the-true-vulnerabilities-from-the-codeql-haystack
