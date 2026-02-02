@@ -90,6 +90,7 @@ CS2200 - https://faculty.cc.gatech.edu/~rama/CS2200-External/ + https://www.yout
 - https://safari.ethz.ch/architecture/fall2024/doku.php?id=start
 - https://safari.ethz.ch/ddca/spring2025/doku.php?id=start
 - Essentials of Computer Architecture
+- CS61C Berkeley - https://www.youtube.com/watch?v=VJ6tuX5bBf4&list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf&index=2
 - Inside the Machine
 - Nerd's Lesson - https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s
 
