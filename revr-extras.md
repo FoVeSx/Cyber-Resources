@@ -16,6 +16,7 @@
 ## Emulation
 - From Zero to QEMU (Slides / OST2 Training)
 - Intro to Emulation from OALABS (Unicorn)
+- Debuggers 1015: Introductory Simics (OST2)
 
 ## Program Analysis
 - Benchify, Infer, CodeQL
@@ -38,6 +39,7 @@
 
 ## Kernel Exploitation
 - Syzscope, SyzKaller, Kallsyms, KRWX
+- https://github.com/hacktivesec/KRWX
 - Eudyptula Challenge
 - https://github.com/hacktivesec/beginner-kernel-exploitation-setup
 - Process Memory Layout Analysis and Address Finding in Linux- https://twitter.com/7etsuo/status/1810523604217639357
@@ -90,6 +92,7 @@
 - AIXCC Buttercup - https://www.trailofbits.com/buttercup/
 - AIxCC - https://youtu.be/8W_VpO5V51A?si=lYtmIlHvPFGXI2LY (DARPA Talk with John Hammond)
 - LLMs for Solving Offensive Security Challenges - https://arxiv.org/abs/2402.11814
+- Sean Heelan - https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
 
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + Treesitter + Excalidraw
@@ -103,6 +106,7 @@ OSINT: Shodan + https://search.censys.io/
 Network Statistics: https://www.netlimiter.com/ - Comodo
 Program Analysis: https://github.com/trailofbits/codeql-queries + https://github.com/google/syzkaller + ROPView + ROPDump + https://panda.re/ + https://github.com/toolCHAINZ/crackers
 Terminal Emulators: Wezterm, GhostTTY, Kitty, Warp, https://github.com/starship/starship
+NMEA: https://github.com/Soups71/NEMO
 
 # Cool Projects
 - Inspiration from:

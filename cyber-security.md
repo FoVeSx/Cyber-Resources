@@ -8,6 +8,7 @@
 - TCM Security
 - Tmux in 100 seconds - https://www.youtube.com/watch?v=vtB1J_zCv8I
 - Complete Bash Scripting Course - https://www.youtube.com/watch?v=Sx9zG7wa4FA
+- Effective Shell - https://effective-shell.com/introduction
 - https://biriukov.dev/
 - https://vim-adventures.com/
 - https://linuxupskillchallenge.com/
