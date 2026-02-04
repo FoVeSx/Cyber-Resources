@@ -47,8 +47,12 @@
 - MITRE
 - MIT Lincoln Labs
 - Cipher Tech Solutions
+- Dark Wolf Solutions
 - GRVTY / Verite Group
 - Talon Defense
+- MotionSafe
+- LegionX
+- Zealot Labs
 - Rincon Research
 - Set of X
 - X8 LLC
@@ -59,13 +63,10 @@
 - Vulnerability Research Labs
 - Tactical Network Solutions
 - Markesman Group
-- MotionSafe
-- Zealot Labs
 - Hacktron.ai
 - VulnCheck
 - NetRise
 - Fathom5
-- LegionX
 - Narf Industries
 - Punch Cyber Analytics
 - Six24 Cyber Labs
@@ -226,7 +227,6 @@
 ## Pentest-y
 - Doyensec
 - Blackpoint Cyber
-- Dark Wolf Solutions
 - Cyderes
 - Riverside Research
 - versprite

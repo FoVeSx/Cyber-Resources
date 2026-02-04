@@ -83,6 +83,7 @@
 
 ## Resources
 - https://shell-storm.org/shellcode/index.html
+- https://ghidradocs.com/index.html
 - https://x64.syscall.sh/
 - https://www.exploit-db.com/
 - https://www.felixcloutier.com/x86/

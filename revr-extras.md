@@ -41,6 +41,7 @@
 - Syzscope, SyzKaller, Kallsyms, KRWX
 - https://github.com/hacktivesec/KRWX
 - Eudyptula Challenge
+- https://github.com/kudu-dynamics/exploitgenie
 - https://github.com/hacktivesec/beginner-kernel-exploitation-setup
 - Process Memory Layout Analysis and Address Finding in Linux- https://twitter.com/7etsuo/status/1810523604217639357
 - Learning Kernel - https://www.youtube.com/watch?v=JRyrhsx-L5Y
