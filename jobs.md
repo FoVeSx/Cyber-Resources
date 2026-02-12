@@ -70,6 +70,7 @@
 - Narf Industries
 - Punch Cyber Analytics
 - Six24 Cyber Labs
+- Shift5
 - Voreas
 - nullptr security
 - Battelle
@@ -178,7 +179,8 @@
 - Dataflow Security
 - Corellium
 - Zellic
-- Red Canary
+- Epsilon Sec
+- Taszk
 - Synacktiv
 - Crowd Defense
 - Atredis Partners
@@ -233,8 +235,6 @@
 - BishopFox
 - Praetorian
 - Fortra
-- Shift5
-- Simspace
 - SpecterOps
 - Dragos Inc
 - Leviathan Security Group
@@ -253,6 +253,9 @@
 - Certik
 
 ## Cyber / Securtiy
+- Red Canary
+- Simspace
+- Assured Information Security
 - RealmOne
 - https://polyswarm.io/
 - Wiz

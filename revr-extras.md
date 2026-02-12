@@ -80,6 +80,8 @@
 - https://pwno.io/
 - AIBugHunter
 - https://code.xint.io/
+- Trusted Access OpenAI - https://openai.com/index/trusted-access-for-cyber/
+- Anthropic Zero Days - https://red.anthropic.com/2026/zero-days/   
 - Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
 - Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
 - AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025 - https://www.youtube.com/watch?v=tLR_hHQVkOk
@@ -98,7 +100,7 @@
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + https://csvistool.com/ (DSA Visualization Tool) + Treesitter + Excalidraw
 RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
-Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit)
+Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit) + https://github.com/Zetier/ropstar
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator
 Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md + Malcat https://malcat.fr/index.html

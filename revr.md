@@ -60,6 +60,7 @@
 - CS472 2023: https://www.cs.wcupa.edu/SCHEN/ss2023/
 - https://github.com/RPISEC/MBE + https://github.com/wetw0rk/MBE-NOTES
 - TJ-Connor-Courses: https://github.com/tj-oconnor/undergrad-vr + https://github.com/tj-oconnor/undergraduate-re
+- Upcoming Platform: https://attacklabs.net/ + https://www.linkedin.com/posts/oscar-leon-986152175_coming-soon-activity-7425235123148767234--FMV/
 
 ## Challenges
 - https://www.darpa.mil/research/challenges/darpa-triage-challenge
