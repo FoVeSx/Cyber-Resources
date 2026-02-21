@@ -64,6 +64,7 @@
 
 ## Challenges
 - https://www.darpa.mil/research/challenges/darpa-triage-challenge
+- https://ectf.mitre.org/proleague/
 - https://ctfsearch.com
 - https://ctftime.org/
 - Nightmare - https://guyinatuxedo.github.io/index.html

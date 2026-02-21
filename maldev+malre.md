@@ -33,6 +33,7 @@
 - https://www.youtube.com/@Mandiant/videos
 - https://github.com/mandiant/flare-vm#installation
 - https://malapi.io/
+- https://malops.io
 - Havoc C2
 - Yara
 - MSFVenom

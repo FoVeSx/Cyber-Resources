@@ -19,6 +19,7 @@
 - Debuggers 1015: Introductory Simics (OST2)
 
 ## Program Analysis
+- https://www.ndss-symposium.org/ndss2026/co-located-events/bar/accepted-papers/
 - Benchify, Infer, CodeQL
 - https://github.com/immunant/c2rust
 - Blackhat Las Vegas 2023 talk: CodeQL: Also a Powerful Binary Analysis Engine
@@ -71,6 +72,8 @@
 - https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
 
 ## LLM / AI
+- https://synsec.org/
+- https://www.anthropic.com/news/claude-code-security
 - VulnCheck
 - https://www.embedder.com/
 - OpenAI Aardvark (CRS-like) -  https://openai.com/index/introducing-aardvark/
