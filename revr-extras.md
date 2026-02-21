@@ -71,35 +71,6 @@
 ## Browser
 - https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
 
-## LLM / AI
-- https://synsec.org/
-- https://www.anthropic.com/news/claude-code-security
-- VulnCheck
-- https://www.embedder.com/
-- OpenAI Aardvark (CRS-like) -  https://openai.com/index/introducing-aardvark/
-- Project Naptime: https://projectzero.google/2024/10/from-naptime-to-big-sleep.html
-- Vulnhalla - https://www.cyberark.com/resources/threat-research-blog/vulnhalla-picking-the-true-vulnerabilities-from-the-codeql-haystack
-- https://github.com/gadievron/raptor (Autonomous Offensive/Defensive Research Framework)
-- https://pwno.io/
-- AIBugHunter
-- https://code.xint.io/
-- Trusted Access OpenAI - https://openai.com/index/trusted-access-for-cyber/
-- Anthropic Zero Days - https://red.anthropic.com/2026/zero-days/   
-- Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
-- Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
-- AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025 - https://www.youtube.com/watch?v=tLR_hHQVkOk
-- IOT Hackbot - https://github.com/BrownFineSecurity/iothackbot
-- R2D2 GPT Plugin - https://github.com/dnakov/r2d2
-- Automated Reversing basic tool - https://github.com/mrphrazer/reverser_ai
-- Binary Ninja MCP - https://github.com/fosdickio/binary_ninja_mcp/
-- Joern MCP Server - https://skywork.ai/skypage/en/supercharge-ai-agent-joern-server/1979009074129915904
-- Binja Sidekick and MCP - https://binary.ninja/2024/06/28/sidekick-beyond-chatgpt.html https://binary.ninja/2024/08/12/sidekick-2.0.html
-- Corellium AI- https://www.corellium.com/blog/automate-tasks-with-corellium-and-ai
-- AIXCC Buttercup - https://www.trailofbits.com/buttercup/
-- AIxCC - https://youtu.be/8W_VpO5V51A?si=lYtmIlHvPFGXI2LY (DARPA Talk with John Hammond)
-- LLMs for Solving Offensive Security Challenges - https://arxiv.org/abs/2402.11814
-- Sean Heelan - https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
-
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + https://csvistool.com/ (DSA Visualization Tool) + Treesitter + Excalidraw
 RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
