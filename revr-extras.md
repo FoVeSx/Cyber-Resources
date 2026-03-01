@@ -17,6 +17,8 @@
 - From Zero to QEMU (Slides / OST2 Training)
 - Intro to Emulation from OALABS (Unicorn)
 - Debuggers 1015: Introductory Simics (OST2)
+- Styx: https://github.com/styx-emulator/styx-emulator + https://www.youtube.com/watch?v=c1QDnZfGslY
+- iOS: https://github.com/wh1te4ever/super-tart-vphone-writeup + https://github.com/wh1te4ever/super-tart-vphone
 
 ## Program Analysis
 - https://www.ndss-symposium.org/ndss2026/co-located-events/bar/accepted-papers/

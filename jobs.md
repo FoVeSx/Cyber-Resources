@@ -228,6 +228,8 @@
 
 ## Pentest-y
 - Doyensec
+- SprocketSecurity
+- Somerset Recon
 - Blackpoint Cyber
 - Cyderes
 - Riverside Research

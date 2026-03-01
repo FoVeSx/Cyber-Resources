@@ -28,66 +28,41 @@
 - AIxCC - https://youtu.be/8W_VpO5V51A?si=lYtmIlHvPFGXI2LY (DARPA Talk with John Hammond)
 - LLMs for Solving Offensive Security Challenges - https://arxiv.org/abs/2402.11814
 - Sean Heelan - https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
+- https://github.com/harshvp1621/VPChecker
+- Supply Chain Reaction: Enhancing the Precision of Vulnerability Triage using Code Reachability Information - https://harshvp1621.github.io/assets/papers/vpchecker_acsac.pdf
+- https://www.binarly.io/blog/binarly-transparency-platform-a-next-generation-approach-to-reachability-analysis
 
+## Learn AI in 2-3 Weeks
+- https://www.deeplearning.ai/courses/ — Andrew Ng's bite-sized courses
+- huggingface.co/learn — NLP, transformers, diffusion models
+- openai/openai-cookbook — Real production patterns
+- karpathy.ai/zero-to-hero — Build GPT from scratch
+- fast.ai — Practical deep learning, no PhD required
+- https://www.anthropic.com/research/AI-assistance-coding-skills
+- Two hour masterclass on Claude Code - https://www.youtube.com/watch?v=2FJlhoDYNPE
 
-https://chatjimmy.ai/
+## Extra Learning
+- Karpathy’s list is revealing: agents, subagents, prompts, contexts, memory, modes, permissions, tools, plugins, skills, hooks, MCP, LSP, slash commands, workflows, IDE integrations. That’s 15+ new primitives that didn’t exist 18 months ago. Each one evolving weekly.
+- Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
+- Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
+- Claude Code For Everyone - https://ccforeveryone.com/
+- Build with Andrew Yang - https://www.deeplearning.ai/courses/build-with-andrew/
+- https://x.com/AndrewYNg/status/1953097967361245251 -> https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/
+- Comple CC Tutorial - https://x.com/eyad_khrais/status/2010076957938188661
 
-techforce.gov - govt hiring ai
-Ask Sage, Inc. is now bringing a complete integration with hashtag#Claude Code at FedRAMP High, IL5 and IL6 -
-https://www.linkedin.com/posts/nicolaschaillan_claude-activity-7407967582416285696-xlGv/
+## Agentic Coding
+- George Hotz using Agentic Coding - https://www.youtube.com/watch?v=erBX3gTZqJI
 
-https://www.anthropic.com/research/AI-assistance-coding-skills
-
-Ryzen AI Halo
-Mac Mini
-
-Ollama - ollama launch  https://x.com/dr_cintas/status/2015108502365024474
-https://clickup.com/
-HuggingFace
-Openrouter
-LM Studio
-https://synthetic.new/landing/home
-Gemini - Guided Learning
-Cowork: Claude Code
-Copilot, Cursor, Claude Code, Opencode
-oh-my-opencode
-opus being bundled in antigravity is actually a crazy good deal, I pay 20$ for gemini pro and get free claude in the editor
-LiveBench - benchmark
-NotebookLM
-https://learnyourway.withgoogle.com/
-dspy.ai - programming LLMs
-AirLLM - AirLLM loads models one layer at a time.
-Slidely AI
-
-https://blog.cloudflare.com/code-mode-mcp/
-
-NVIDIA Unsloth Optimization - https://x.com/nvidiaaidev/status/2021398069523382737?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ
-
-ClawdBot - Alex Finn: https://x.com/realalanhoward/status/2015249686400291020
-https://openclaw.ai/ / Moltbot
-https://anthropic.skilljar.com/claude-code-in-action
-
-GLM 4.7 Flash Locally - https://x.com/0xSero/status/2018027097084588503 + https://www.youtube.com/watch?v=_SDyaPYmIxU&embeds_referring_euri=https%3A%2F%2Fx.com%2F
-
-Things to Learn about AI:
-Karpathy’s list is revealing: agents, subagents, prompts, contexts, memory, modes, permissions, tools, plugins, skills, hooks, MCP, LSP, slash commands, workflows, IDE integrations. That’s 15+ new primitives that didn’t exist 18 months ago. Each one evolving weekly.
-Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
-Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
-Claude Code For Everyone - https://ccforeveryone.com/
-Build with Andrew Yang - https://www.deeplearning.ai/courses/build-with-andrew/
-https://x.com/AndrewYNg/status/1953097967361245251
-Comple CC Tutorial - https://x.com/eyad_khrais/status/2010076957938188661
-
-https://x.com/ghumare64/status/2004938173093445875?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ
-https://chatgpt.com/use-cases/veterans/ 
-Gemini - Practice Tests for SAT
-
-GLM 5 Gameboy:
-https://x.com/Zai_org/status/2021754659590033565
-https://blog.e01.ai/glm5-gameboy-and-long-task-era-64db7074a026
-
-claude-code-devcontainer: https://github.com/trailofbits/claude-code-devcontainer
-dropkit: https://github.com/trailofbits/dropkit
+## Local LLM Stuff:
+- Ollama
+- HuggingFace
+- LM Studio
+- AirLLM
+- https://x.com/joshkale/status/2026761627979120815
+- https://x.com/sudoingx/status/2026956270574657897
+- https://x.com/theahmadosman/status/2026322835921133658
+- NVIDIA Unsloth Optimization - https://x.com/nvidiaaidev/status/2021398069523382737?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ
+- GLM 4.7 Flash Locally - https://x.com/0xSero/status/2018027097084588503 + https://www.youtube.com/watch?v=_SDyaPYmIxU&embeds_referring_euri=https%3A%2F%2Fx.com%2F
 
 > video - wan 2.2
 > writing - kimi k2
@@ -100,13 +75,37 @@ dropkit: https://github.com/trailofbits/dropkit
 > pdf summaries - qwen 3 vl / glm 4.6v
 > general queries - kimi k2 / deepseek v3.2
 
-GLM 4.7 and MiniMax 2.1 are the first time I genuinely feel Chinese made models have surpassed American models. Both models may not be better in every way, but they feel infinitely easier to use and get what you want, plus cheaper (this is from my experience)
+## Random Stuff
+- https://chatjimmy.ai/
+- techforce.gov - govt hiring ai
+- GLM 5 Gameboy:
+    - https://x.com/Zai_org/status/2021754659590033565
+    - https://blog.e01.ai/glm5-gameboy-and-long-task-era-64db7074a026
 
-Opencode:
-https://x.com/aliceisplaying/status/2003531902922498298
-https://x.com/neetcode1/status/2003796044791075325
-https://x.com/ivanfioravanti/status/2003785088866406488
+## Hardware 
+- Ryzen AI Halo
+- Mac Mini
 
-https://github.com/harshvp1621/VPChecker
-Supply Chain Reaction: Enhancing the Precision of Vulnerability Triage using Code Reachability Information - https://harshvp1621.github.io/assets/papers/vpchecker_acsac.pdf
-https://www.binarly.io/blog/binarly-transparency-platform-a-next-generation-approach-to-reachability-analysis
+## API / Subscriptions
+- Openrouter
+- https://synthetic.new/landing/home
+
+## Resources / Tools
+- https://blog.cloudflare.com/code-mode-mcp/
+- https://anthropic.skilljar.com/claude-code-in-action
+- OpenClaw - Alex Finn: https://x.com/realalanhoward/status/2015249686400291020
+- Copilot, Cursor, Claude Code, Opencode, Antigravity
+- oh-my-opencode
+- https://github.com/anthropics/financial-services-plugins
+- Gemini - Guided Learning
+- Gemini - Practice Tests for SAT
+- https://learnyourway.withgoogle.com/
+- Cowork: Claude Code
+- Google NotebookLM
+- Slidely AI
+- https://clickup.com/
+- LiveBench - benchmark
+- dspy.ai - programming LLMs
+- https://chatgpt.com/use-cases/veterans/ 
+- claude-code-devcontainer: https://github.com/trailofbits/claude-code-devcontainer
+- dropkit: https://github.com/trailofbits/dropkit
