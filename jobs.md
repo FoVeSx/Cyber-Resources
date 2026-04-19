@@ -52,6 +52,7 @@
 - Talon Defense
 - MotionSafe
 - LegionX
+- RunSybil
 - Zealot Labs
 - Rincon Research
 - Set of X
@@ -63,6 +64,7 @@
 - Vulnerability Research Labs
 - Tactical Network Solutions
 - Markesman Group
+- Veria Labs
 - Hacktron.ai
 - VulnCheck
 - NetRise
@@ -72,6 +74,7 @@
 - Six24 Cyber Labs
 - Shift5
 - Voreas
+- XBOW
 - nullptr security
 - Battelle
 - Peraton Labs
@@ -136,6 +139,7 @@
 - Google - Chronicle/Mandiant (FLARE)
 - CrowdStrike
 - Huntress Labs
+- ARM Security
 - Horizon3 AI
 - Rapid7
 - Fireye/Trellix
@@ -151,7 +155,7 @@
 - Apple Red Team (SEAR)
 - Meta Red Team
 - Twitter DART Team
-- Intel Security
+- Intel Security - INT31
 - NVIDIA Security
 - Gitlab - Red Team / Security
 - Shield AI
@@ -255,6 +259,7 @@
 - Certik
 
 ## Cyber / Securtiy
+- Cobalt
 - Red Canary
 - Simspace
 - Assured Information Security
@@ -374,7 +379,6 @@
 - united health group - reverse engineering unit (cyber analyst)
 - agile information security based in UK
 - algarin industries
-- apogee research
 - Loki Labs
 - ShadowDragon - threat intel company
 - thomson reuters special services
@@ -399,6 +403,7 @@
 - Defense Unicorns
 - Agile Defense
 - Hypergiant
+- Apogee Research
 - Beast Code
 - Metrostar
 - Vivsoft

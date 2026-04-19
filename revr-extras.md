@@ -76,9 +76,9 @@
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + https://csvistool.com/ (DSA Visualization Tool) + Treesitter + Excalidraw
 RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
-Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit) + https://github.com/Zetier/ropstar
+Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit) + https://github.com/Zetier/ropstar + https://github.com/radareorg/warrp
 Kernel VR: https://out-of-tree.io/
-Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator
+Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator + https://github.com/rehosting/penguin
 Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md + Malcat https://malcat.fr/index.html
 Maldev: https://github.com/MatheuZSecurity/Singularity (Linux Kernel Rootkit)
 OSINT: Shodan + https://search.censys.io/

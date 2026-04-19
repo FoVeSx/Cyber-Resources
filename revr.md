@@ -21,12 +21,14 @@
 - Darknet Diaries
 - NSA Podcast
 - Behind the Binary - Josh S. Google Cloud
+- Day[0]Sec (last episode on 4/10 RIP)
 
 ## Conferences
 - DistrictCon
 - RE//Verse
 - Hexacon
 - RSTCon
+- Rebellion - https://www.rbln.com/
 - https://www.bsidesnova.org/
 - https://blackhatmea.com/
 - https://www.cyberwarcon.com/
@@ -38,6 +40,7 @@
 - https://www.interruptlabs.co.uk/vulnerability-research
 - https://dayzerosec.com/blog/2024/07/11/getting-started-2024.html
 - trailofbits.github.io/ctf
+- https://zeropath.com/blog/zeropath-exploit-development-ctfs
 - https://beginners.re/main.html
 - https://book.hacktricks.wiki/en/index.html
 - https://book.jorianwoltjer.com/
@@ -55,6 +58,7 @@
 - https://pwn.college/
 - https://microcorruption.com
 - OST2 + OST1 (https://opensecuritytraining.info/Training.html)
+- https://www.binaryjiujitsu.com/
 - HeapLab: https://www.udemy.com/course/linux-heap-exploitation-part-1/  
 - https://pwn.umasscybersec.org/index.html + https://github.com/seal9055/390R
 - CS472 2023: https://www.cs.wcupa.edu/SCHEN/ss2023/
@@ -84,6 +88,7 @@
 - https://nsa-codebreaker.org/home
 
 ## Resources
+- Trail of Bits Testing Handbook - https://appsec.guide/
 - https://shell-storm.org/shellcode/index.html
 - https://ghidradocs.com/index.html
 - https://x64.syscall.sh/
@@ -102,6 +107,8 @@
 - Shape the World - Valvano
 - Israel Gbati Courses - Embedded Systems Bare-Metal Programming Ground Up™ (STM32) + RTOS Learning
 - Quantum Leaps
+- https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
+- Target-Centric Firmware Rehosting with Penguin - https://www.ndss-symposium.org/wp-content/uploads/bar2025-final10.pdf
 - Make Me Hack - https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU
 - Digital Logic & Programming - https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm
 - Brushing Up on Hardware Hacking Part 1 - https://voidstarsec.com/blog/pifex-pigen
@@ -116,3 +123,9 @@
 - Hacking a TP-Link Router - https://youtu.be/zjafMP7EgEA?si=6iTEScMLoaqB_1WW
 - Medical Security Analysis - https://cc-sw.com/medical-device-security-analysis/
 - We Hacked Flock Safety Cameras in under 30 Seconds - https://www.youtube.com/watch?v=uB0gr7Fh6lY
+- ZDI (in general) - https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware?rq=mindshare
+- https://www.zerodayinitiative.com/blog/2020/5/27/mindshare-how-to-just-emulate-it-with-qemu
+- https://hacklido.com/blog/529-iot-binary-analysis-emulation-part-1
+- https://azeria-labs.com/emulating-arm-firmware/
+- https://hackyboiz.github.io/2025/05/08/newp1ayer48/emulation1/en/
+- Glitching in 3D EMFI - https://voidstarsec.com/fi-resources/#1

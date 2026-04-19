@@ -1,8 +1,17 @@
 ## Security
+- Vulnerability Research is Cooked - https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
+- Dan Guido - 200 Bugs/Engineer - Unprompted Talk - https://www.youtube.com/watch?v=kgwvAyF7qsA
+- Trail of Bits - AI Native - https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-bits-ai-native-so-far/
+- Anthropic Mythos - https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf
+- https://openssf.org/blog/2026/04/02/from-aixcc-to-openssf-welcoming-oss-crs-to-advance-ai-driven-open-source-security/
+- OSS-CRS - https://arxiv.org/abs/2603.08566
 - https://synsec.org/
 - https://1password.com/blog/ai-agent-security-benchmark
 - https://www.anthropic.com/news/claude-code-security
+- https://www.anthropic.com/news/mozilla-firefox-security
+- https://openai.com/index/codex-security-now-in-research-preview/
 - Binja Codemode -https://github.com/m4ul3r/binja-codemode-mcp/tree/fix/model-friction
+- https://vulhunt.re/ + https://github.com/vulhunt-re/vulhunt + https://github.com/vulhunt-re/vulhunt + https://www.binarly.io/blog/vulhunt-intro
 - VulnCheck
 - https://www.embedder.com/
 - OpenAI Aardvark (CRS-like) -  https://openai.com/index/introducing-aardvark/
@@ -31,6 +40,16 @@
 - https://github.com/harshvp1621/VPChecker
 - Supply Chain Reaction: Enhancing the Precision of Vulnerability Triage using Code Reachability Information - https://harshvp1621.github.io/assets/papers/vpchecker_acsac.pdf
 - https://www.binarly.io/blog/binarly-transparency-platform-a-next-generation-approach-to-reachability-analysis
+
+## Security Tools
+- https://github.com/ossf/oss-crs/tree/main
+- https://github.com/winmin/kernel-vuln-analyzer
+- https://github.com/gadievron/raptor
+- Agentic Reverse Engineer: https://github.com/amruth-sn/kong
+- https://github.com/verialabs/ctf-agent
+- https://github.com/tosanjay/BinCodeQL
+- https://www.praetorian.com/praetorian-guard-demo
+- https://combat.theater/
 
 ## Learn AI in 2-3 Weeks
 - https://www.deeplearning.ai/courses/ — Andrew Ng's bite-sized courses
@@ -63,6 +82,7 @@
 - https://x.com/theahmadosman/status/2026322835921133658
 - NVIDIA Unsloth Optimization - https://x.com/nvidiaaidev/status/2021398069523382737?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ
 - GLM 4.7 Flash Locally - https://x.com/0xSero/status/2018027097084588503 + https://www.youtube.com/watch?v=_SDyaPYmIxU&embeds_referring_euri=https%3A%2F%2Fx.com%2F
+- Qwopus - https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled + https://medium.com/coding-nexus/ive-been-daily-driving-qwen-3-5-27b-then-someone-distilled-claude-opus-into-it-45317d0c189b
 
 > video - wan 2.2
 > writing - kimi k2
@@ -91,6 +111,7 @@
 - https://synthetic.new/landing/home
 
 ## Resources / Tools
+- https://runthisllm.com/
 - https://blog.cloudflare.com/code-mode-mcp/
 - https://anthropic.skilljar.com/claude-code-in-action
 - OpenClaw - Alex Finn: https://x.com/realalanhoward/status/2015249686400291020

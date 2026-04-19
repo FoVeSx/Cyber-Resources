@@ -25,6 +25,7 @@
 - Malware Analysis For Hedgehog 
 - InvokeRE 
 - Zero2Automated
+- https://github.com/mandiant/flare-learning-hub
 - https://exploitreversing.com/2021/12/03/malware-analysis-series-mas-article-1/
 - LigerLabs - Educational Modules for (Anti-)Reverse Engineering
 - The Art of Mac Malware - https://taomm.org/
@@ -35,6 +36,8 @@
 - https://malapi.io/
 - https://malops.io
 - Havoc C2
+- Mythic C2 - https://docs.mythic-c2.net/home
+- Adaptix C2 - https://github.com/Adaptix-Framework/AdaptixC2
 - Yara
 - MSFVenom
 - Metasploit

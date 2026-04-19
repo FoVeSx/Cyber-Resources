@@ -5,6 +5,7 @@
 - Jacob Sorber / Daniel Hirsch
 
 ## Cyber
+- Kudu CEO - https://www.mfrantzen.com/
 - John Hammond
 - LaurieWired
 - David Bombal
