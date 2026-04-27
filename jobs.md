@@ -146,7 +146,7 @@
 - IBM - X-Force
 - Palo Alto - Unit 42
 - Accenture - Novetta/Fusion X
-- Trend Micro
+- Trend Micro / TrendAI
 - Microsoft - Morse
 - Cisco - Talos / ASIG (Advanced Security Initiatives Group)
 - Magnet Forensics - Grayshift - High Peaks Cyber

@@ -42,6 +42,7 @@
 - https://www.binarly.io/blog/binarly-transparency-platform-a-next-generation-approach-to-reachability-analysis
 
 ## Security Tools
+- Training Software Agents to find vulnerabilities with CTF Dojo - https://github.com/amazon-science/CTF-Dojo
 - https://github.com/ossf/oss-crs/tree/main
 - https://github.com/winmin/kernel-vuln-analyzer
 - https://github.com/gadievron/raptor

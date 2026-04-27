@@ -108,7 +108,9 @@
 - Israel Gbati Courses - Embedded Systems Bare-Metal Programming Ground Up™ (STM32) + RTOS Learning
 - Quantum Leaps
 - https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
+- Firmware Rehosting w/ PwnCollege - https://pwn.college/dojo/rehosting
 - Target-Centric Firmware Rehosting with Penguin - https://www.ndss-symposium.org/wp-content/uploads/bar2025-final10.pdf
+- Firmwell - https://github.com/qc9c/FIRMWELL + https://www.ndss-symposium.org/wp-content/uploads/2026-s249-paper.pdf
 - Make Me Hack - https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU
 - Digital Logic & Programming - https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm
 - Brushing Up on Hardware Hacking Part 1 - https://voidstarsec.com/blog/pifex-pigen
