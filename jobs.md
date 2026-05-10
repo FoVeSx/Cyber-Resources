@@ -1,5 +1,6 @@
 ## Resources
 - https://github.com/iamavu/vr-rev-jobs
+- https://dowcio.war.gov/Cyber-Workforce/Cyber-Workforce-Development/Cyber-Apprenticeship-Program/
 - layoffs.fyi
 - levels.fyi
 - dice tech salary report
@@ -33,6 +34,7 @@
 - Cromulence / Parsons / BlackHorse
 - JHUAPL
 - Cryptic Vector / Caesar Creek Software
+- Attic Research
 - Red Ballon Security
 - SIXGEN / Kyrus Tech
 - Nightwing
@@ -75,6 +77,7 @@
 - Shift5
 - Voreas
 - XBOW
+- Armadin
 - nullptr security
 - Battelle
 - Peraton Labs
@@ -389,6 +392,7 @@
 - dreadnode AI 
 - intezra
 - base2 solutions
+- gormat
 - hak5
 - time systems llc
 - binary defense

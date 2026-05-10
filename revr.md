@@ -60,6 +60,7 @@
 - OST2 + OST1 (https://opensecuritytraining.info/Training.html)
 - https://www.binaryjiujitsu.com/
 - HeapLab: https://www.udemy.com/course/linux-heap-exploitation-part-1/  
+- https://sourceware.org/glibc/wiki/MallocInternals
 - https://pwn.umasscybersec.org/index.html + https://github.com/seal9055/390R
 - CS472 2023: https://www.cs.wcupa.edu/SCHEN/ss2023/
 - https://github.com/RPISEC/MBE + https://github.com/wetw0rk/MBE-NOTES
@@ -111,6 +112,7 @@
 - Firmware Rehosting w/ PwnCollege - https://pwn.college/dojo/rehosting
 - Target-Centric Firmware Rehosting with Penguin - https://www.ndss-symposium.org/wp-content/uploads/bar2025-final10.pdf
 - Firmwell - https://github.com/qc9c/FIRMWELL + https://www.ndss-symposium.org/wp-content/uploads/2026-s249-paper.pdf
+- Protocol Aware FW Rehosting - https://arxiv.org/pdf/2509.13740
 - Make Me Hack - https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU
 - Digital Logic & Programming - https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm
 - Brushing Up on Hardware Hacking Part 1 - https://voidstarsec.com/blog/pifex-pigen

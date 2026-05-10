@@ -1,5 +1,6 @@
 ## Security
 - Vulnerability Research is Cooked - https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
+- https://jericho.blog/2026/04/06/vulnerability-research-isnt-cooked-its-burned-beyond-recognition/
 - Dan Guido - 200 Bugs/Engineer - Unprompted Talk - https://www.youtube.com/watch?v=kgwvAyF7qsA
 - Trail of Bits - AI Native - https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-bits-ai-native-so-far/
 - Anthropic Mythos - https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf
@@ -40,6 +41,9 @@
 - https://github.com/harshvp1621/VPChecker
 - Supply Chain Reaction: Enhancing the Precision of Vulnerability Triage using Code Reachability Information - https://harshvp1621.github.io/assets/papers/vpchecker_acsac.pdf
 - https://www.binarly.io/blog/binarly-transparency-platform-a-next-generation-approach-to-reachability-analysis
+- https://www.provos.org/p/finding-zero-days-with-any-model/
+- https://www.hacktron.ai/blog/why-mythos-doesnt-matter-for-us
+- https://xbow.com/blog/mythos-like-hacking-open-to-all
 
 ## Security Tools
 - Training Software Agents to find vulnerabilities with CTF Dojo - https://github.com/amazon-science/CTF-Dojo
@@ -51,6 +55,8 @@
 - https://github.com/tosanjay/BinCodeQL
 - https://www.praetorian.com/praetorian-guard-demo
 - https://combat.theater/
+- https://theori-io.github.io/aixcc-public/
+- Trailmark - https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/
 
 ## Learn AI in 2-3 Weeks
 - https://www.deeplearning.ai/courses/ — Andrew Ng's bite-sized courses
