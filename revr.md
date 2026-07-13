@@ -43,9 +43,11 @@
 - https://zeropath.com/blog/zeropath-exploit-development-ctfs
 - https://beginners.re/main.html
 - https://book.hacktricks.wiki/en/index.html
+- https://angelica.gitbook.io/hacktricks
+- https://ctf-wiki.org/pwn/linux/user-mode/environment/
 - https://book.jorianwoltjer.com/
 - https://ctf101.org/binary-exploitation/overview/
-- https://azeria-labs.com/writing-arm-assembly-part-1/
+- https://azeria-labs.com/
 - https://8ksec.io/arm-64-reversing-and-exploitation-series/
 - https://x86re.com/1.html
 - https://0xinfection.github.io/reversing/
@@ -77,6 +79,7 @@
 - https://ropemporium.com/
 - https://www.battelle.org/the-challenge
 - https://github.com/shellphish/how2heap
+- https://heap-exploitation.dhavalkapil.com/
 - https://github.com/mytechnotalent/Reverse-Engineering
 - https://exploit.education/
 - https://github.com/seal9055/PWN_Zero2Hero/tree/main
@@ -103,11 +106,14 @@
 - Flipper Zero Course
 - TCM Security IoT Hacking Course, Interrupt Labs, Flashback.sh Courses
 - https://github.com/twelvesec/PwnPad/tree/main
+- Suit Up and Hack - https://www.youtube.com/watch?v=-YlEaXoWhWY&list=PLEiegDU-9T1Cw_V5Hdh2zafM9CiNAy7Yb
 - FastBit Academy Courses
 - Low Byte Productions - Bare Metal Programming
 - Shape the World - Valvano
 - Israel Gbati Courses - Embedded Systems Bare-Metal Programming Ground Up™ (STM32) + RTOS Learning
+- Digikey RTOS Learning Series - https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz
 - Quantum Leaps
+- https://tpbreak.afflicted.sh/
 - https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
 - Firmware Rehosting w/ PwnCollege - https://pwn.college/dojo/rehosting
 - Target-Centric Firmware Rehosting with Penguin - https://www.ndss-symposium.org/wp-content/uploads/bar2025-final10.pdf
@@ -116,7 +122,7 @@
 - Make Me Hack - https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU
 - Digital Logic & Programming - https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm
 - Brushing Up on Hardware Hacking Part 1 - https://voidstarsec.com/blog/pifex-pigen
-- https://cc-sw.com/renesas-rh850-attacks-part-1-of-7/
+- https://cc-sw.com/renesas-rh850-attacks-part-1-of-7/ + https://cc-sw.com/find-my-and-find-hub-network-research/
 - https://www.whid.ninja/store/product/offensive-hardware-hacking-training-exam-voucher-self-paced
 - https://voidstarsec.training/products/hacking-hardware-debuggers
 - https://www.grayhatacademy.com/hardware-hacking-workshop

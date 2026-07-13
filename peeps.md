@@ -42,6 +42,7 @@
 - MattBrwn
 - Joe Grand
 - Flashback.Sh
+- Artful Bytes
 
 ## Game Hacking
 - GuidedHacking

@@ -1,5 +1,5 @@
 ## SWE
-- getcracked.io
+- getcracked.io + https://prachub.com/
 - https://roadmap.sh/
 - https://devhints.io/
 - https://github.com/ReaVNaiL/New-Grad-2024
@@ -50,6 +50,7 @@ CS61:
 - https://github.com/remzi-arpacidusseau/ostep-projects
 - https://www.omscs-notes.com/operating-systems/introduction-to-operating-systems/
 - https://wiki.osdev.org/Expanded_Main_Page
+- https://sourceware.org/glibc/wiki/MallocInternals
 - https://ops-class.org/
 - Linux IPC from Scrach in C - https://www.udemy.com/course/linuxipc/?couponCode=MT251015G2
 

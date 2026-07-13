@@ -24,6 +24,7 @@
 
 ## Red Teaming
 Predominantly composed of two things: alternative analysis and adversary simulation. Red teams do not attempt to find “all the vulnerabilities'' and do not usually try to have a wide breadth of coverage. Instead, red teams seek to simulate an adversary with a particular objective, predominantly to act as a “sparring partner” for blue teams. Keep in mind, red teams are the only adversary that will debrief with the blue team so that the blue team can figure out what they missed or could have done differently.
+- Red Team Operations with Cobalt Strike - https://www.youtube.com/watch?v=i6tsLWrCiGE
 - Carlos Polop - AWS Red Team Expert
 - Threat Adversary Emulation - https://www.youtube.com/watch?v=783BgVwzr4Y
 - Akamai - https://www.linode.com/docs/guides/linux-red-team-exploitation-techniques/

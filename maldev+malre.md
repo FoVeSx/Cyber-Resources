@@ -12,6 +12,7 @@
 - Cohere Technology LLC Course
 - Sektor7 MalDev
 - White Knight Labs ODPC - covers the windows labs from Cohere - Manual Symbol Loading (Importer), Manual Mapping PE File (Loader), RDLL Injection
+- Windows Malware Dev (JustHacking - John Hammond) - https://learn.justhacking.com/bundles/94ff5001-99a1-4c1e-8062-40cd4ece92e4 + https://learn.justhacking.com/bundles/56bbe229-0365-4ccf-a013-9ae99348f097
 - Mosse MRE Certified Reverse Engineer
 - Guided Hacking
 - https://0xrick.github.io/win-internals/pe1/

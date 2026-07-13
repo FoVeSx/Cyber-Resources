@@ -50,12 +50,15 @@
 - MIT Lincoln Labs
 - Cipher Tech Solutions
 - Dark Wolf Solutions
-- GRVTY / Verite Group
+- Theori
+- Phaedrus LLC
+- GRVTY
+- MTSI
+- Verite Group
 - Talon Defense
 - MotionSafe
 - LegionX
 - RunSybil
-- Zealot Labs
 - Rincon Research
 - Set of X
 - X8 LLC
@@ -65,8 +68,11 @@
 - Invictus LLC
 - Vulnerability Research Labs
 - Tactical Network Solutions
+- DragonStorm
 - Markesman Group
+- Autonomous Cyber
 - Veria Labs
+- Nebula Security
 - Hacktron.ai
 - VulnCheck
 - NetRise
@@ -129,7 +135,6 @@
 - RedBerrry Innovations
 - Dark Circuit Labs
 - Mauck Research Group
-- Phaedrus LLC
 - COLSA
 - Red Arch Solutions
 - Piper Companies
@@ -331,7 +336,6 @@
 - Truffle Security
 - The OCC
 - HTX Labs
-- MTSI
 - GuidePoint Security
 - 22nd Century Technologies
 - IPSecure
@@ -400,7 +404,6 @@
 - tfp0 labs
 - md research
 - stack piercer
-- theori
 - nteligen
 
 ## IT/SWE

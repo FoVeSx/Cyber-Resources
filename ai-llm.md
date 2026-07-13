@@ -1,4 +1,5 @@
 ## Security
+- Using Qwen for Local Security - https://projectblack.io/blog/local-ai-for-cyber-security/
 - Vulnerability Research is Cooked - https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
 - https://jericho.blog/2026/04/06/vulnerability-research-isnt-cooked-its-burned-beyond-recognition/
 - Dan Guido - 200 Bugs/Engineer - Unprompted Talk - https://www.youtube.com/watch?v=kgwvAyF7qsA
@@ -11,6 +12,7 @@
 - https://www.anthropic.com/news/claude-code-security
 - https://www.anthropic.com/news/mozilla-firefox-security
 - https://openai.com/index/codex-security-now-in-research-preview/
+- Building An AI Based Vulnerability Detection Workflow - https://blog.cykor.kr/2026/06/Building-an-AI-Based-Vulnerability-Detection-Workflow
 - Binja Codemode -https://github.com/m4ul3r/binja-codemode-mcp/tree/fix/model-friction
 - https://vulhunt.re/ + https://github.com/vulhunt-re/vulhunt + https://github.com/vulhunt-re/vulhunt + https://www.binarly.io/blog/vulhunt-intro
 - VulnCheck
@@ -24,6 +26,7 @@
 - https://code.xint.io/
 - Trusted Access OpenAI - https://openai.com/index/trusted-access-for-cyber/
 - Anthropic Zero Days - https://red.anthropic.com/2026/zero-days/   
+- https://www.anthropic.com/research/n-days
 - Scaling VR with LLMs - https://noperator.dev/posts/on-the-money/
 - Generative AI for RE - https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
 - AI in Cyber Security: The Storm and the Compass by Joshua Reynolds at BSides Edmonton 2025 - https://www.youtube.com/watch?v=tLR_hHQVkOk
@@ -47,7 +50,14 @@
 
 ## Security Tools
 - Training Software Agents to find vulnerabilities with CTF Dojo - https://github.com/amazon-science/CTF-Dojo
+- https://arxiv.org/pdf/2604.20801 (Synthesizing Multi-Agent Harnesses for Vulnerability Discovery)
+- FuzzingBrainV2 - https://arxiv.org/html/2605.21779v1
+- Hexgraph CRS - https://github.com/branover/hexgraph
 - https://github.com/ossf/oss-crs/tree/main
+- https://github.com/symgraph/BinAssistMCP
+- https://github.com/m4ul3r/bn
+- https://github.com/cellebrite-labs/ghidra-rpc
+- https://github.com/nightwing-us/mcpyghidra
 - https://github.com/winmin/kernel-vuln-analyzer
 - https://github.com/gadievron/raptor
 - Agentic Reverse Engineer: https://github.com/amruth-sn/kong
@@ -59,6 +69,7 @@
 - Trailmark - https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/
 
 ## Learn AI in 2-3 Weeks
+- https://zero2claude.dev/
 - https://www.deeplearning.ai/courses/ — Andrew Ng's bite-sized courses
 - huggingface.co/learn — NLP, transformers, diffusion models
 - openai/openai-cookbook — Real production patterns
@@ -80,6 +91,11 @@
 - George Hotz using Agentic Coding - https://www.youtube.com/watch?v=erBX3gTZqJI
 
 ## Local LLM Stuff:
+- https://axolotl.ai/ - company Talon hired for open source models based in US
+- @NVIDIAAI's Qwen 3.6 27B NVFP4 is faster than Unsloth's Qwen 3.6 27B NVFP4 by a whopping ~41% on DGX Spark for single sessions and by 23-25% for 2-4 concurrent sessions
+- https://agentic-re-ctf-csl-recon.clearseclabs.com/ - Testing CTF challenges against diff models   
+- https://localmaxxing.com/en/models
+- https://github.com/AEON-7
 - Ollama
 - HuggingFace
 - LM Studio
@@ -88,19 +104,7 @@
 - https://x.com/sudoingx/status/2026956270574657897
 - https://x.com/theahmadosman/status/2026322835921133658
 - NVIDIA Unsloth Optimization - https://x.com/nvidiaaidev/status/2021398069523382737?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ
-- GLM 4.7 Flash Locally - https://x.com/0xSero/status/2018027097084588503 + https://www.youtube.com/watch?v=_SDyaPYmIxU&embeds_referring_euri=https%3A%2F%2Fx.com%2F
 - Qwopus - https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled + https://medium.com/coding-nexus/ive-been-daily-driving-qwen-3-5-27b-then-someone-distilled-claude-opus-into-it-45317d0c189b
-
-> video - wan 2.2
-> writing - kimi k2
-> 3d reconstruction - sam 3d
-> reasoning - deepseek speciale
-> coding - minimax m2.1 / glm 4.7
-> image editing - qwen image edit
-> image gen - z image turbo / flux 2 dev
-> image and video segmentation - sam 3
-> pdf summaries - qwen 3 vl / glm 4.6v
-> general queries - kimi k2 / deepseek v3.2
 
 ## Random Stuff
 - https://chatjimmy.ai/
@@ -118,11 +122,17 @@
 - https://synthetic.new/landing/home
 
 ## Resources / Tools
+- https://venice.ai/
+- Perplexity AI
+- https://exploitbench.ai/
+- https://bountybench.github.io/
 - https://runthisllm.com/
 - https://blog.cloudflare.com/code-mode-mcp/
 - https://anthropic.skilljar.com/claude-code-in-action
 - OpenClaw - Alex Finn: https://x.com/realalanhoward/status/2015249686400291020
+- https://www.warp.dev/
 - Copilot, Cursor, Claude Code, Opencode, Antigravity
+- https://pi.dev/
 - oh-my-opencode
 - https://github.com/anthropics/financial-services-plugins
 - Gemini - Guided Learning

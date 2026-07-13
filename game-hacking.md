@@ -2,8 +2,11 @@
 - GuidedHacking
 - gamehacking.gg
 - https://secret.club/
+- https://github.com/Herooyyy/Free-DMA-Firmware-pcileech + https://github.com/cur-114/FL1100 + https://github.com/cur-114/usb-response-generator
+- https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/
 - RE Xbox Markus Ret2 - https://www.youtube.com/watch?v=hGlIkgmhZvc
 - https://icode4.coffee/?p=954 - Tony Hawk Strcpy (good for beginner)
+- https://www.atredis.com/blog/2026/1/26/generals
 - Reverse Engineering Denuvo Hogwarts Legacy - https://momo5502.com/posts/2025-10-03-reverse-engineering-denuvo-in-hogwarts-legacy/
 - https://www.riotgames.com/en/news/vanguard-security-update-motherboard + https://jjensn.com/at-home-in-your-firmware/#the-poc
 - https://ssno.cc/posts/reversing-tac-1-4-2025/ - Call of Duty

@@ -1,3 +1,6 @@
+## Networking
+- https://cq674350529.github.io/lcdpwn/ - Cisco Discovery Protocol (CDP) and Link Layer Discovery Protocol (LLDP)
+
 ## Fuzzing
 - OST2 Fuzzing 1001 - https://apps.p.ost2.fyi/learning/course/course-v1:OpenSecurityTraining2+Fuzz1001_Intro_AFL+2025_v1/home
 - SA-RIOT Fuzzing Course
@@ -19,8 +22,10 @@
 - Debuggers 1015: Introductory Simics (OST2)
 - Styx: https://github.com/styx-emulator/styx-emulator + https://www.youtube.com/watch?v=c1QDnZfGslY
 - iOS: https://github.com/wh1te4ever/super-tart-vphone-writeup + https://github.com/wh1te4ever/super-tart-vphone
+- Windows - Sogen - https://sogen.dev/
 
 ## Program Analysis
+- https://o2lab.github.io/ (Texas A&M)
 - https://www.ndss-symposium.org/ndss2026/co-located-events/bar/accepted-papers/
 - Benchify, Infer, CodeQL
 - https://github.com/immunant/c2rust
@@ -42,6 +47,7 @@
 
 ## Kernel Exploitation
 - Syzscope, SyzKaller, Kallsyms, KRWX
+- https://github.com/mito753/Kernel-Exploit-Dojo/tree/main
 - https://github.com/hacktivesec/KRWX
 - Eudyptula Challenge
 - https://github.com/kudu-dynamics/exploitgenie
@@ -73,11 +79,13 @@
 
 ## Browser
 - https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
+- https://varik.dev/blog/v8/getting-started-with-v8-exploitation
 
 ## Tools
 General: https://gchq.github.io/CyberChef/ + https://kaitai.io/ + https://csvistool.com/ (DSA Visualization Tool) + Treesitter + Excalidraw
-RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/)
-Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit) + https://github.com/Zetier/ropstar + https://github.com/radareorg/warrp
+RE: Godbolt + Onlinegdb + Dogbolt + Zathura + https://rev.ng/ + WerWolv/ImHex + RESim (https://github.com/mfthomps/RESim) + ASM Visualizer (https://asm.diveintosystems.org/) + https://github.com/ucsb-seclab/karonte (detect multi-binary vulns in embedded fw)
+Pwn: Pwndbg & pwntools + https://github.com/david942j/one_gadget + https://libc.rip/ &  https://libc.blukat.me/ + https://github.com/ChrisTheCoolHut/Zeratool (AEG) + https://github.com/wetw0rk/Sickle (Payload Development Kit) + https://github.com/Zetier/ropstar + https://github.com/radareorg/warrp + https://github.com/weggli-rs/weggli + https://github.com/sefcom/operation-mango-public (Taint-Style
+Vulnerabilities in Binary Firmware Services) + https://github.com/binsync/binsync
 Kernel VR: https://out-of-tree.io/
 Emulators: QEMU, Unicorn-Engine, Qiling + https://github.com/momo5502/emulator + https://github.com/rehosting/penguin
 Malware Analysis: Any.run + https://tria.ge/ + Cuckoo Sandbox + Booz Allen Vellox Reverser + https://github.com/mandiant/flare-floss/blob/master/scripts/README.md + Malcat https://malcat.fr/index.html
@@ -87,6 +95,7 @@ Network Statistics: https://www.netlimiter.com/ - Comodo
 Program Analysis: https://github.com/trailofbits/codeql-queries + https://github.com/google/syzkaller + ROPView + ROPDump + https://panda.re/ + https://github.com/toolCHAINZ/crackers
 Terminal Emulators: Wezterm, GhostTTY, Kitty, Warp, https://github.com/starship/starship
 NMEA: https://github.com/Soups71/NEMO
+Red Team / Pentest / Purple: https://github.com/grisuno/LazyOwn + https://github.com/ch0pin/medusa (Mobile Hacking Lab) + https://github.com/jasonxtn/Argus
 
 # Cool Projects
 - Inspiration from:
