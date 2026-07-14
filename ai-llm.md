@@ -93,6 +93,7 @@
 ## Local LLM Stuff:
 - https://axolotl.ai/ - company Talon hired for open source models based in US
 - @NVIDIAAI's Qwen 3.6 27B NVFP4 is faster than Unsloth's Qwen 3.6 27B NVFP4 by a whopping ~41% on DGX Spark for single sessions and by 23-25% for 2-4 concurrent sessions
+- Spark Bench / ASUS GX10
 - https://agentic-re-ctf-csl-recon.clearseclabs.com/ - Testing CTF challenges against diff models   
 - https://localmaxxing.com/en/models
 - https://github.com/AEON-7

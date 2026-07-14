@@ -30,6 +30,7 @@
 - Alexander Borges - https://exploitreversing.com/2021/12/03/malware-analysis-series-mas-article-1/
 - LigerLabs - Educational Modules for (Anti-)Reverse Engineering
 - The Art of Mac Malware - https://taomm.org/
+- MacSecLabs
 
 ## Malware Resources
 - https://www.youtube.com/@Mandiant/videos
