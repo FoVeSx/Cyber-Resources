@@ -1,4 +1,9 @@
 ## Security
+- https://trailofbits.com/patch-the-planet
+- Microsoft AI - https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
+- AI Assisted Vulnerability Research on Embedded Targets - https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/
+- Vercel Labs - https://github.com/vercel-labs/deepsec
+- Towards Reliable Local Security Agents: Verifiable Post-Training for Linux Privilege Escalation - https://arxiv.org/html/2603.17673v2
 - Using Qwen for Local Security - https://projectblack.io/blog/local-ai-for-cyber-security/
 - Vulnerability Research is Cooked - https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
 - https://jericho.blog/2026/04/06/vulnerability-research-isnt-cooked-its-burned-beyond-recognition/
@@ -51,8 +56,12 @@
 ## Security Tools
 - Training Software Agents to find vulnerabilities with CTF Dojo - https://github.com/amazon-science/CTF-Dojo
 - https://arxiv.org/pdf/2604.20801 (Synthesizing Multi-Agent Harnesses for Vulnerability Discovery)
-- FuzzingBrainV2 - https://arxiv.org/html/2605.21779v1
+- FuzzingBrainV2 - https://arxiv.org/html/2605.21779v1 + https://fuzzingbrain.github.io/
+- Generating Harnesses with a Local LLM - https://www.8ksec.io/ai-assisted-fuzzing-harness-local-llm/
+- https://github.com/sunblaze-ucb/exploitgym - Benchmark
+- https://kuna.noelo.org/decompile/ (https://noelo.org/blog/kuna-release/)
 - Hexgraph CRS - https://github.com/branover/hexgraph
+- https://github.com/openai/codex-security
 - https://github.com/ossf/oss-crs/tree/main
 - https://github.com/symgraph/BinAssistMCP
 - https://github.com/m4ul3r/bn
@@ -91,6 +100,7 @@
 - George Hotz using Agentic Coding - https://www.youtube.com/watch?v=erBX3gTZqJI
 
 ## Local LLM Stuff:
+- https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B
 - https://axolotl.ai/ - company Talon hired for open source models based in US
 - @NVIDIAAI's Qwen 3.6 27B NVFP4 is faster than Unsloth's Qwen 3.6 27B NVFP4 by a whopping ~41% on DGX Spark for single sessions and by 23-25% for 2-4 concurrent sessions
 - Spark Bench / ASUS GX10
@@ -123,6 +133,7 @@
 - https://synthetic.new/landing/home
 
 ## Resources / Tools
+- Herdr
 - https://venice.ai/
 - Perplexity AI
 - https://exploitbench.ai/

@@ -56,6 +56,7 @@
 - MTSI
 - Verite Group
 - Talon Defense
+- Nortex Cyber Solutions
 - MotionSafe
 - LegionX
 - RunSybil
@@ -184,6 +185,7 @@
 - Citizen Lab
 - Catalyst Security
 - Vigilant Labs
+- Breakpoint Research
 - Interrupt Labs
 - ForAllSecure - Mayhem Security
 - Grayshift / Magnet Forensics

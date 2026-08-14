@@ -117,7 +117,13 @@
 - https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
 - Firmware Rehosting w/ PwnCollege - https://pwn.college/dojo/rehosting
 - Target-Centric Firmware Rehosting with Penguin - https://www.ndss-symposium.org/wp-content/uploads/bar2025-final10.pdf
+- Jetset: Targeted Firmware Rehosting for Embedded Systems - https://github.com/aerosec/jetset
+- Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing - https://github.com/fuzzware-fuzzer/fuzzware
+- Universal MCU Firmware Emulator for Dynamic Analysis without Any Hardware Dependence - https://github.com/MCUSec/uEmu
 - Firmwell - https://github.com/qc9c/FIRMWELL + https://www.ndss-symposium.org/wp-content/uploads/2026-s249-paper.pdf
+- HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation - https://github.com/halucinator/halucinator
+- PROTECTING BARE-METAL SYSTEMS FROM REMOTE EXPLOITATION - https://engineering.purdue.edu/dcsl/publications/thesis/2019/thesis_abraham_clements.pdf
+- FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers - https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_duong.pdf
 - Protocol Aware FW Rehosting - https://arxiv.org/pdf/2509.13740
 - Make Me Hack - https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU
 - Digital Logic & Programming - https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm

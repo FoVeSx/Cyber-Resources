@@ -17,7 +17,7 @@
  
 ## DSA 
 - DSA Crash Course: https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
-- NeetCode + LeetCode
+- NeetCode 250 + LeetCode + Blind 75
 - HackerRank
 - Structy
 - CodeIntuition
