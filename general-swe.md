@@ -40,6 +40,7 @@
 - https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&view=0&maxResults=50
 - https://github.com/semsevens/CSAPP-Labs
 - https://github.com/0xF444/CSAPP-Labs
+- https://csapp.cs.cmu.edu/3e/labs.html
 CS61:
 - https://cs61.seas.harvard.edu/
 

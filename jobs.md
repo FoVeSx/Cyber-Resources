@@ -1,6 +1,7 @@
 ## Resources
 - https://github.com/iamavu/vr-rev-jobs
 - https://dowcio.war.gov/Cyber-Workforce/Cyber-Workforce-Development/Cyber-Apprenticeship-Program/
+- Advanced Course in Engineering (ACE) Cyber Leadership Development
 - layoffs.fyi
 - levels.fyi
 - dice tech salary report
@@ -26,56 +27,237 @@
 - IBM Adversary Emulation
 - Threat Hunter / TDNA / ION / Digital Network Analyst
 
-## Gov't Shops
+## Primaries
+- Research Innovations (RII)
 - Zetier
 - REDLattice
-- Research Innovations (RII)
-- ICR Inc (Ideas, Commitment, Results)
-- Cromulence / Parsons / BlackHorse
-- JHUAPL
-- Cryptic Vector / Caesar Creek Software
-- Attic Research
-- Red Ballon Security
-- SIXGEN / Kyrus Tech
-- Nightwing
-- Two Six Technologies
-- Radiance Technologies
 - Clarity / Chameleon Consulting Group
-- Draper
-- Trail Of Bits
-- Margin RE
+- STR
+- ICR
+- Cryptic Vector / Caesar Creek Software
+- Nightwing
+- SIXGEN / Kyrus Tech
+- Cromulence / Parsons / BlackHorse
+- Red Ballon Security
+- Two Six Technologies
 - Kudu Dynamics / Leidos
-- STR US
-- MITRE
-- MIT Lincoln Labs
-- Cipher Tech Solutions
-- Dark Wolf Solutions
-- Theori
-- Phaedrus LLC
-- GRVTY
-- MTSI
-- Verite Group
-- Talon Defense
-- Nortex Cyber Solutions
-- MotionSafe
-- LegionX
-- RunSybil
-- Rincon Research
+- Defense Unicorns
+- Dragos
+- VulnCheck
+- Apple Red Team (SEAR)
+- NVIDIA Security
+- CrowdStrike
+- Microsoft - MORSE / WARP / MSTIC
+- Riot Games - Vanguard
+- Percival Engineering
 - Set of X
 - X8 LLC
-- CNFTech
+- JHUAPL
+- Anduril
+- Radiance Technologies
+- Assured Information Security
+- Cipher Tech Solutions
+- Draper
+- Nortex Cyber Solutions
+- Attic Research
+- GRVTY
+- Legion X
+- MITRE
+- MIT Lincoln Labs
+- BAE Systems
+- Lockheed Martin
+- Northrop Grumman / Xetron
+- ManTech
+- CACI
+- Booz Allen / Everwatch
+- Accenture Federal Services / Novetta / FusionX
+- Battelle
+- Peraton Labs
+- Tactical Network Solutions
+- CNF Tech
+- MotionSafe
+- Magnet Forensics / Grayshift / High Peak Cyber
+- Autonomous Cyber
+- Talon Defense / Cohere Technology Group
+- Tyr1 labs
+- Interrupt Labs
+- Exodus Intelligence
+- Vector 35
+- Praetorian
+- EA (Electronic Arts) - Anti-Cheat
+- IBM - X-Force
+- Google - Chronicle/Mandiant/FLARE
+- Palo Alto - Unit 42
+- Samsung Research America
+- SpaceX / Tesla Security Research
+- NeuraLink
+- Horizon3 AI
+- Rapid7
+- Huntress Labs
+- Socket.dev
+- Staffing: Stanley Reid + The Josef Group + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + RedHerd
+
+## OffSec Research Teams
+- ARM Security
+- Fireye/Trellix
+- Trend Micro / TrendAI
+- Cisco - Talos / ASIG (Advanced Security Initiatives Group)
+- BugCrowd
+- Amazon Red Team
+- Meta Red Team
+- Twitter DART Team
+- Intel Security - INT31
+- Gitlab - Red Team / Security
+- Shield AI
+- Palantir
+- Blackberry - Cylance
+- Dell Cyber (SRO)
+- Oracle Gov Cloud - ONSR
+- Target
+- Home Depot
+- AllState - https://www.allstate.jobs/job/22221846/malware-analyst-reverse-engineer/
+- Humana
+
+## Research
+- NSA
+- Signal Labs
+- Ret2Systems
+- CMU CERT
+- Georgia Tech Research (GTRI)
+- Cerias - Purdue
+- USCB-Seclabs
+- DSU Deep Red Lab
+- Pacific Northwest National Labs
+- Idaho National Laboratory
+- Sandia National
+- Redstone Arsenal
+
+## Gaming / AC
+- Roblox
+- EA SPEAR
+- Blitz
+- Ubisoft
+- Valve
+
+## Pentest-y
+- Dark Wolf Solutions
+- Doyensec
+- SprocketSecurity
+- Somerset Recon
+- Blackpoint Cyber
+- Cyderes
+- Riverside Research
+- versprite
+- BishopFox
+- Fortra
+- SpecterOps
+- Leviathan Security Group
+- Blackpoint Cyber
+- SentinelOne
+- Coalfire
+- IOActive
+- Flashpoint
+- OtterSec
+- Binarly
+- Cellebrite
+- Shield
+- Anthropic
+- 8KSec
+- NCC Group
+- Certik
+
+## Cyber / Securtiy
+- Cobalt
+- Red Canary
+- Simspace
+- RealmOne
+- https://polyswarm.io/
+- Wiz
+- Phosphorus Cybersecurity 
+- Code Red Partners
+- Qualys
+- Tenable
+- Claroty
+- Bitsight
+- Halcyon Cyber + Clever Security
+- Greynoise
+- Keysight
+- ChipScan
+- Censys
+- Cyble
+- Checkpoint
+- Donovan
+- Block.XYZ
+- Maltego
+- Rise8
+- Synack Red Team
+- Cybereason
+- Cognition AI Labs
+- https://sublime.security/
+
+## Need to organize
+- AV Inc
+- RemoteThreat
+- InsaneCyber
+- Trail Of Bits
+- Margin RE
+- Depthfirst
+- Kratos Defense
+- COBB Tuning
+- Dataflow Security
+- Vigilant Labs
+- Breakpoint Research
+- ForAllSecure - Mayhem Security
+- Lucid Motors
+- Prelude Detection
+- Citizen Lab
+- Catalyst Security
+- Corellium
+- Zellic
+- Epsilon Sec
+- Taszk
+- Synacktiv
+- Crowd Defense
+- Atredis Partners
+- Binary Gecko
+- CoreTech
+- BlueFrost Security Labs
+- Foundry Zero
+- MSAB
+- PixiePoint Security
+- PKSecurity IO
+- Safa
+- Secfence
+- SSD Labs
+- Infosect
+- Ebryx
+
+- mwr infosecurity
+- Lab539
+- Push Security
+- watchTowr
+- Ruptura InfoSecurity
+- CultureAI
+- Digital Interruption
+- SYON Security
+- Fidus Information Security
+
+- Theori
+- Phaedrus LLC
+- MTSI
+- Verite Group
+- RunSybil
+- Rincon Research
+- Systolic
 - Ring0
 - Interclypse
 - Invictus LLC
 - Vulnerability Research Labs
-- Tactical Network Solutions
 - DragonStorm
 - Markesman Group
-- Autonomous Cyber
 - Veria Labs
 - Nebula Security
 - Hacktron.ai
-- VulnCheck
 - NetRise
 - Fathom5
 - Narf Industries
@@ -86,35 +268,24 @@
 - XBOW
 - Armadin
 - nullptr security
-- Battelle
-- Peraton Labs
-- Northrop Grumman / Xetron
-- Lockheed Martin
-- GDIT
-- ManTech
 - L3Harris / Trenchant / Azimuth
+- GDIT
 - Blue Halo - Eqlipse
-- CACI
-- Booz Allen - Everwatch
 - Boeing Intelligence
-- Accenture Federal Services - Novetta
 - Aerospace
 - Collins - Raytheon AST
 - SAIC
-- BAE Systems
 - HII Mission Systems
 - Jacobs - Blue Canopy
 - Amentum
 - DTSI / Irys Technologies
 - BLS Government Services
 - Praxis Engineering
-- Percival Engineering
 - Plex LLC
 - MAXISIQ
 - Triple Haven
 - Cohere Technology Group
 - Arsiem
-- Misc: Stanley Reid + The Josef Group + https://topclearedrecruiting.com/ + RedBlue Security + NetSage + Darkstar Group + RedHerd
 - Breakpoint Labs
 - Recorded Future - Insikt Group Research
 - Byteratio
@@ -143,164 +314,16 @@
 - Aperio Global
 - Digital Operatives LLC
 - Cognizant
+- Doodle Labs
+- Shift5
 
-## OffSec Research Teams
-- Google - Chronicle/Mandiant (FLARE)
-- CrowdStrike
-- Huntress Labs
-- ARM Security
-- Horizon3 AI
-- Rapid7
-- Fireye/Trellix
-- IBM - X-Force
-- Palo Alto - Unit 42
-- Accenture - Novetta/Fusion X
-- Trend Micro / TrendAI
-- Microsoft - Morse
-- Cisco - Talos / ASIG (Advanced Security Initiatives Group)
-- Magnet Forensics - Grayshift - High Peaks Cyber
-- BugCrowd
-- Amazon Red Team
-- Apple Red Team (SEAR)
-- Meta Red Team
-- Twitter DART Team
-- Intel Security - INT31
-- NVIDIA Security
-- Gitlab - Red Team / Security
-- Shield AI
-- Anduril
-- Palantir
-- Blackberry - Cylance
-- Dell Cyber (SRO)
-- Oracle Gov Cloud - ONSR
-- Target
-- Home Depot
-- AllState - https://www.allstate.jobs/job/22221846/malware-analyst-reverse-engineer/
-- Humana
-
-## Boutique Shops
-- COBB Tuning (Austin, TX Based - RE on ECU's for Cars)
-- Lucid Motors
-- Prelude Detection
-- Citizen Lab
-- Catalyst Security
-- Vigilant Labs
-- Breakpoint Research
-- Interrupt Labs
-- ForAllSecure - Mayhem Security
-- Grayshift / Magnet Forensics
-- Exodus Intelligence (XI)
-- Dataflow Security
-- Corellium
-- Zellic
-- Epsilon Sec
-- Taszk
-- Synacktiv
-- Crowd Defense
-- Atredis Partners
-- Binary Gecko
-- CoreTech
-- BlueFrost Security Labs
-- Foundry Zero
-- MSAB
-- PixiePoint Security
-- PKSecurity IO
-- Safa
-- Secfence
-- SSD Labs
-- Infosect
-- Ebryx
-
-## Research
-- NSA
-- Signal Labs
-- Ret2Systems
-- CMU CERT
-- Georgia Tech Research (GTRI)
-- Cerias - Purdue
-- USCB-Seclabs
-- DSU Deep Red Lab
-- Idaho National Laboratory
-- Sandia National
-- Redstone Arsenal
-
-## Gaming / AC
-- Roblox
-- Riot Games Vanguard
-- EA SPEAR
-- Blitz
-- Ubisoft
-- Valve
-
-## Tool Shops
-- Vector 35
 - Hex Rays
 - Semgrep
 - Offsec
 - Reveng AI
 - Hexordia
 
-## Pentest-y
-- Doyensec
-- SprocketSecurity
-- Somerset Recon
-- Blackpoint Cyber
-- Cyderes
-- Riverside Research
-- versprite
-- BishopFox
-- Praetorian
-- Fortra
-- SpecterOps
-- Dragos Inc
-- Leviathan Security Group
-- Blackpoint Cyber
-- SentinelOne
-- Coalfire
-- IOActive
-- Flashpoint
-- OtterSec
-- Binarly
-- Cellebrite
-- Shield
-- Anthropic
-- 8KSec
-- NCC Group
-- Certik
 
-## Cyber / Securtiy
-- Cobalt
-- Red Canary
-- Simspace
-- Assured Information Security
-- RealmOne
-- https://polyswarm.io/
-- Wiz
-- Phosphorus Cybersecurity 
-- Code Red Partners
-- Qualys
-- Tenable
-- Claroty
-- Bitsight
-- Halcyon Cyber + Clever Security
-- Greynoise
-- Keysight
-- ChipScan
-- Censys
-- Cyble
-- Checkpoint
-- Donovan
-- Block.XYZ
-- Maltego
-- Rise8
-- Synack Red Team
-- Cybereason
-- Cognition AI Labs
-- https://sublime.security/
-
-## Need to organize
-- Doodle Labs
-- Shift5
 - Dreadnode
 - Blackwing HQ Intelligence
 - Enlighten Corp
@@ -308,7 +331,6 @@
 - Valiant Integrated Services
 - Viasat
 - Syscall7
-- VoidStar Security LLC
 - ClearRidge Defense
 - Freedom Consulting Group
 - Bogart AI
@@ -364,7 +386,6 @@
 - DCI Solutions
 - Pondurance
 - Linchpin Solutions
-- tyr1 labs
 - legato llc
 - scientific systems ssci - AI powered autonomous
 - twenty.io
@@ -376,7 +397,6 @@
 - BeyondSOF
 - saronic technologies
 - sbiradvisors
-- saronic
 - carbon reach
 - benchify - ycombinator backed
 - levelupsec io
@@ -395,7 +415,7 @@
 - undaunted dev
 - hacktive security
 - 90th Air Force Malware Laboratory
-- dreadnode AI 
+- 780th Intel Squadron
 - intezra
 - base2 solutions
 - gormat
@@ -409,7 +429,6 @@
 - nteligen
 
 ## IT/SWE
-- Defense Unicorns
 - Agile Defense
 - Hypergiant
 - Apogee Research
@@ -427,3 +446,112 @@
 - BigBearAI
 - QinetiQ 
 - XRDNA
+
+## Edit later - from a tier list for security companies
+- Binary Ninja (Vector 35)
+- Vinsoc
+- Calif
+- Flipper Devices
+- Yubico
+- Google Project Zero
+- PortSwigger
+- Hack The Box
+- RunSybil
+- Harvey
+- Huntress
+- Atredis Partners
+- Doyensec
+- TrustedSec
+- Hex-Rays
+- Socket
+- Theori
+- Synacktiv
+- watchTowr
+- Thinkst Canary
+- Cure53
+- Bishop Fox
+- DEVCORE
+- Cisco Talos
+- Coalfire
+- Hak5
+- Trail of Bits
+- XBOW
+- Mandiant
+- NetSPI
+- Rapid7
+- Datadog
+- Horizon3.ai
+- Semgrep
+- Sublime Security
+- Volexity
+- IOActive
+- CrowdStrike
+- Dreadnode
+- HiddenLayer
+- Tencent Keen Security Lab
+- Arctic Wolf
+- GuidePoint Security
+- Darktrace
+- Leviathan Security Group
+- Intigriti
+- Mindgard
+- Qualys
+- Sophos
+- TCM Security
+- Zero Day Initiative
+- Black Hills Information Security
+- SpecterOps
+- HackerOne
+- 1Password
+- Aikido Security
+- Censys
+- Accenture
+- Bugcrowd
+- Cobalt
+- Kaspersky
+- Flare
+- Synack
+- Tenable
+- STAR Labs
+- runZero
+- Payatu
+- Optiv
+- Zellic
+- Cloudflare
+- TryHackMe
+- Palo Alto Networks
+- NCC Group
+- Anthropic
+- OpenAI
+- Fortinet
+- ESET
+- Emsisoft
+- Orange Cyberdefense
+- Binarly
+- Bitdefender
+- Independent Security Evaluators (ISE)
+- Include Security
+- GreyNoise
+- Gray Swan AI
+- GitGuardian
+- YesWeHack
+- Lares
+- Rhino Security Labs
+- MDSec
+- Pen Test Partners (PTP)
+- Quarkslab
+- Red Siege
+- NVISO
+- Detectify
+- ERNW
+- Secure Ideas
+- Searchlight Cyber
+- Margin Research
+- Tines
+- White Knight Labs
+- WithSecure
+- OffSec
+- iVerify
+- Praetorian
+- Material Security
+- SANS Institute

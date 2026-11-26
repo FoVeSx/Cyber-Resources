@@ -1,4 +1,16 @@
 ## Security
+- Private Cloud Compute AI - https://tinfoil.sh/
+- CyberGLM + CyberKimi - https://adverserial.ai/
+- Qwen 3.8 did VR/RE - https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/
+- Anthropic on GLM - https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities
+- Anthropic on Formal Verification - https://www.anthropic.com/research/formal-verification + https://assets.claude.com/6867eadf760258fa8b42a504600cd3c036d16358.pdf (Appendix: LLMs are making formal software verification feasible at a much larger scale)
+- OpenAI making autonomous vulnerability discovery - https://openai.com/index/a-thousand-fewer-paths-to-root/
+- Hacking AI Challenges - https://github.com/mubix/ai-ctf
+- SlockLock (case study on local LLMs for maldev) - https://steve-s.gitbook.io/0xtriboulet/artificial-intelligence/sloplock
+- We burned 11.7bn tokens to find the best cyber AI model - https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026
+- GTIG AI Threat Tracker - https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access
+- Bullying LLMs - https://blog.zsec.uk/bullyingllms/
+- Really understanding harnesses - https://blog.zsec.uk/harnessing-harnesses/
 - https://trailofbits.com/patch-the-planet
 - Microsoft AI - https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
 - AI Assisted Vulnerability Research on Embedded Targets - https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/
@@ -7,6 +19,7 @@
 - Using Qwen for Local Security - https://projectblack.io/blog/local-ai-for-cyber-security/
 - Vulnerability Research is Cooked - https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
 - https://jericho.blog/2026/04/06/vulnerability-research-isnt-cooked-its-burned-beyond-recognition/
+- Automatically Attacking Software Reverse Engineering AI Agents - https://arxiv.org/pdf/2605.30667
 - Dan Guido - 200 Bugs/Engineer - Unprompted Talk - https://www.youtube.com/watch?v=kgwvAyF7qsA
 - Trail of Bits - AI Native - https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-bits-ai-native-so-far/
 - Anthropic Mythos - https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf
@@ -54,6 +67,12 @@
 - https://xbow.com/blog/mythos-like-hacking-open-to-all
 
 ## Security Tools
+- https://5ugue.pages.dev/ - AI agent that runs the whole fuzzing loop against real phones, over real radio
+- Moria: https://github.com/nmatt0/moria
+- Mithril: https://github.com/nmatt0/mithril
+- https://github.com/morluto/rea + https://rea.tools/ (Reverse Engineer Anything)
+- https://github.com/vigiloss/vigil - AI harness for code audits, web pentests, and bug bounty hunting
+- Firmware RE/VR Skills - https://github.com/OrbitCurve/firmware-reverse-engineering
 - Training Software Agents to find vulnerabilities with CTF Dojo - https://github.com/amazon-science/CTF-Dojo
 - https://arxiv.org/pdf/2604.20801 (Synthesizing Multi-Agent Harnesses for Vulnerability Discovery)
 - FuzzingBrainV2 - https://arxiv.org/html/2605.21779v1 + https://fuzzingbrain.github.io/
@@ -77,7 +96,8 @@
 - https://theori-io.github.io/aixcc-public/
 - Trailmark - https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/
 
-## Learn AI in 2-3 Weeks
+## Learn AI
+- https://cs2680.com/
 - https://zero2claude.dev/
 - https://www.deeplearning.ai/courses/ — Andrew Ng's bite-sized courses
 - huggingface.co/learn — NLP, transformers, diffusion models
@@ -86,8 +106,6 @@
 - fast.ai — Practical deep learning, no PhD required
 - https://www.anthropic.com/research/AI-assistance-coding-skills
 - Two hour masterclass on Claude Code - https://www.youtube.com/watch?v=2FJlhoDYNPE
-
-## Extra Learning
 - Karpathy’s list is revealing: agents, subagents, prompts, contexts, memory, modes, permissions, tools, plugins, skills, hooks, MCP, LSP, slash commands, workflows, IDE integrations. That’s 15+ new primitives that didn’t exist 18 months ago. Each one evolving weekly.
 - Andrej Karpathy Intro to LLM - https://www.youtube.com/watch?v=zjkBMFhNj_g
 - Andrej Karpathy Let's Build GPT - https://www.youtube.com/watch?v=kCc8FmEb1nY
@@ -100,22 +118,36 @@
 - George Hotz using Agentic Coding - https://www.youtube.com/watch?v=erBX3gTZqJI
 
 ## Local LLM Stuff:
+- https://github.com/Zagitta/gpu-unlock - full speed tensor cores for nvidia gpus
+- https://x.com/MiaAI_lab
+- https://x.com/0xSero
+- https://github.com/MiaAI-Lab
+- Ornith
+- https://huggingface.co/blog/exolabs/the-dgx-spark-handbook
+- https://github.com/jundot/omlx
+- github colibri
+- https://github.com/MiaAI-Lab/sparkDash
 - https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B
+- Post-trained GLM 5.3 flash to become as strong as Fable 5.1 on SRE tasks - https://web-assets.dd-static.net/42588/1792071077-datadog-scout_technical_report.pdf
 - https://axolotl.ai/ - company Talon hired for open source models based in US
 - @NVIDIAAI's Qwen 3.6 27B NVFP4 is faster than Unsloth's Qwen 3.6 27B NVFP4 by a whopping ~41% on DGX Spark for single sessions and by 23-25% for 2-4 concurrent sessions
 - Spark Bench / ASUS GX10
+- https://forums.developer.nvidia.com/t/60-tok-s-glm-5-3-flash-on-a-single-dgx-spark/382140 + https://github.com/Public-Bytes/glm-5.3-one-spark + https://huggingface.co/gitcommit90/GLM-5.3-Flash-EXL3-2.05-One-Spark
 - https://agentic-re-ctf-csl-recon.clearseclabs.com/ - Testing CTF challenges against diff models   
 - https://localmaxxing.com/en/models
 - https://github.com/AEON-7
+- https://inco.ai/ - Meet Inco Splash: our open-source inference engine, built around the model and around Apple silicon. Up to 3× the decode speed of Ollama, 2× oMLX, and almost 4× when an agent fans out into sub-agents.
 - Ollama
 - HuggingFace
 - LM Studio
 - AirLLM
+- vLLM and Strata
 - https://x.com/joshkale/status/2026761627979120815
 - https://x.com/sudoingx/status/2026956270574657897
 - https://x.com/theahmadosman/status/2026322835921133658
 - NVIDIA Unsloth Optimization - https://x.com/nvidiaaidev/status/2021398069523382737?s=46&t=wDGoNTlzP8Yj3u5OvZvcNQ
 - Qwopus - https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled + https://medium.com/coding-nexus/ive-been-daily-driving-qwen-3-5-27b-then-someone-distilled-claude-opus-into-it-45317d0c189b
+- https://www.xda-developers.com/i-tested-nvidias-nemotron-35-bolt-and-it-changed-what-i-thought-my-16gb-gpu-could-do/
 
 ## Random Stuff
 - https://chatjimmy.ai/
@@ -123,10 +155,21 @@
 - GLM 5 Gameboy:
     - https://x.com/Zai_org/status/2021754659590033565
     - https://blog.e01.ai/glm5-gameboy-and-long-task-era-64db7074a026
+- OpenAI hardware shenaningans - https://openai.com/index/accelerating-engineering-for-the-physical-world/
 
 ## Hardware 
+- Spark / GB10
 - Ryzen AI Halo
 - Mac Mini
+- 1x Spark best models:
+    - Qwen3.8 Flash Next https://github.com/MiaAI-Lab/Qwen3.8-...
+
+- 2x Spark best models:
+    - DeepSeek V4 Flash Vision-Exp: https://github.com/MiaAI-Lab/DeepSeek...
+    - GLM 5.3 Flash: https://github.com/MiaAI-Lab/GLM-5.3-...
+    - DeepSeek v4.1 Flash: https://github.com/MiaAI-Lab/DeepSeek...
+    - Qwen3.8 Flash Next: https://github.com/MiaAI-Lab/Qwen3.8-...
+
 
 ## API / Subscriptions
 - Openrouter
@@ -144,7 +187,7 @@
 - OpenClaw - Alex Finn: https://x.com/realalanhoward/status/2015249686400291020
 - https://www.warp.dev/
 - Copilot, Cursor, Claude Code, Opencode, Antigravity
-- https://pi.dev/
+- https://pi.dev/ + OMP (oh-my-pi): https://omp.sh/
 - oh-my-opencode
 - https://github.com/anthropics/financial-services-plugins
 - Gemini - Guided Learning

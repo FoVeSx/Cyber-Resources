@@ -1,5 +1,6 @@
 ## Networking
 - Networking Concepts Beej
+- Cisco Network Academy and Packet Tracer
 - From Zero To HTTP - https://www.youtube.com/watch?v=9uebakqWlB0
 - OSI and TCP/IP Models Best Explained - https://www.youtube.com/watch?v=3b_TAYtzuho
 - https://study-ccna.com/
@@ -18,6 +19,7 @@
 
 ## Challenges
 - OverTheWire
+- https://kc7cyber.com/
 - TryHackMe
 - HackTheBox
 - Crypto and Forensics Practice

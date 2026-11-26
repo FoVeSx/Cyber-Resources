@@ -17,12 +17,13 @@
 - Guided Hacking
 - https://0xrick.github.io/win-internals/pe1/
 - https://0xpat.github.io/Malware_development_part_1/
-- https://www.roppers.org/
+- https://www.roppers.org
+- Nimless Nim talk (Tyler R.)
 
 ## Malware RE / Analysis
 - SANS Malware Analysis Quiz (projects folder)
 - Malware Analysis RPISEC - https://github.com/RPISEC/Malware
-- TCM Security - PMAT
+- TCM Security - PMAT (HuskyHacks on Github)
 - Malware Analysis For Hedgehog 
 - InvokeRE 
 - Zero2Automated
@@ -31,6 +32,7 @@
 - LigerLabs - Educational Modules for (Anti-)Reverse Engineering
 - The Art of Mac Malware - https://taomm.org/
 - MacSecLabs
+- Azul - Malware Repository
 
 ## Malware Resources
 - https://www.youtube.com/@Mandiant/videos

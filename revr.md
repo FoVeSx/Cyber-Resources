@@ -12,6 +12,7 @@
 
 ## Blogs
 - Phrack.org Writeups
+- https://projectzero.google/
 - https://tmpout.sh/
 - https://blog.exploits.club/
 - https://8ksec.io/blog/
@@ -22,6 +23,7 @@
 - NSA Podcast
 - Behind the Binary - Josh S. Google Cloud
 - Day[0]Sec (last episode on 4/10 RIP)
+- The Drone Ultimatum
 
 ## Conferences
 - DistrictCon
@@ -101,9 +103,10 @@
 - https://www.xorpd.net/pages/xchg_rax/snip_00.html
 
 ## Embedded RE/VR
+- https://fwdonor.zr.ax/dashboard
 - https://voidstarsec.com/roadmap/
 - https://pyjamabrah.com/
-- Flipper Zero Course
+- Flipper Zero Course + https://flipperunleashed.com/ + https://sendthepayload.com/offensive/flipper-zero/
 - TCM Security IoT Hacking Course, Interrupt Labs, Flashback.sh Courses
 - https://github.com/twelvesec/PwnPad/tree/main
 - Suit Up and Hack - https://www.youtube.com/watch?v=-YlEaXoWhWY&list=PLEiegDU-9T1Cw_V5Hdh2zafM9CiNAy7Yb
@@ -115,7 +118,9 @@
 - Quantum Leaps
 - https://tpbreak.afflicted.sh/
 - https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
+- https://rehosting.github.io/
 - Firmware Rehosting w/ PwnCollege - https://pwn.college/dojo/rehosting
+- https://github.com/redtecher/FirmCure - automates IoT firmware emulation using LLM-powered agents. Given an extracted firmware rootfs, it analyzes the firmware, builds a QEMU virtual machine, and fixes runtime crashes — achieving a fully interactive emulated web service with no manual intervention
 - Target-Centric Firmware Rehosting with Penguin - https://www.ndss-symposium.org/wp-content/uploads/bar2025-final10.pdf
 - Jetset: Targeted Firmware Rehosting for Embedded Systems - https://github.com/aerosec/jetset
 - Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing - https://github.com/fuzzware-fuzzer/fuzzware
@@ -139,6 +144,7 @@
 - Hacking a TP-Link Router - https://youtu.be/zjafMP7EgEA?si=6iTEScMLoaqB_1WW
 - Medical Security Analysis - https://cc-sw.com/medical-device-security-analysis/
 - We Hacked Flock Safety Cameras in under 30 Seconds - https://www.youtube.com/watch?v=uB0gr7Fh6lY
+- Chinese Implanets Supply Chain - https://www.vulncheck.com/blog/zbt-darklantern-speakingstone
 - ZDI (in general) - https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware?rq=mindshare
 - https://www.zerodayinitiative.com/blog/2020/5/27/mindshare-how-to-just-emulate-it-with-qemu
 - https://hacklido.com/blog/529-iot-binary-analysis-emulation-part-1

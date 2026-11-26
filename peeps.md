@@ -39,8 +39,9 @@
 
 ## Hardware
 - StackSmashing
-- MattBrwn
+- MattBrown
 - Joe Grand
+- https://www.youtube.com/@MitchDavis2/playlists
 - Flashback.Sh
 - Artful Bytes
 
